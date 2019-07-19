@@ -25,6 +25,8 @@ To contribute:
 |  [Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1414453/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB) | Several: Americas | Present  |  For technology roles: Select Engineering->General |
 |  [Microsoft](https://careers.microsoft.com/us/en/) | Global | Present  |   |
 |  [Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=Internships-STDNT-INTRN) | Santa Clara Valley (Cupertino), California (Mainly) | Present  |  SWE, Hardware, UI/UX, Sales, ML |
+|  [SAS](https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Santa Clara Valley (Cupertino), California (Mainly) | Present  | Pipeline for students with Autism |
+|  [NBCUniversal](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=442107&codes=LinkedIn#jobDetails=442107_5108) | Tokyo or Stamford, CT | For Tokyo 2020 Olympics; No sponsorship; Sophomores+ |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

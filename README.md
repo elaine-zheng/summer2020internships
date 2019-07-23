@@ -33,6 +33,7 @@ To contribute:
 |  [Matco Tools](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27]) | Stow, OH | Present | Juniors+, prefers Java programming skills
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
+|  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

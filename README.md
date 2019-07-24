@@ -34,7 +34,7 @@ To contribute:
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
 |  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
-|   |   |   |   |
+|   [The Vanguard Group](https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925) | Malvern, PA and Charlotte, NC | Present  | 3.0 GPA Preferred, Software Development, Technology Operations  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

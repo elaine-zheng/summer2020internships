@@ -34,7 +34,7 @@ To contribute:
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
 |  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
-|   |   |   |   |
+| [Los Alamos National Lab](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw..)  | Los Alamos, NM  | due September 30 | Min. GPA 3.0 Coverletter Required  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

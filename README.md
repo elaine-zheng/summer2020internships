@@ -34,6 +34,17 @@ To contribute:
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
 |  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
+|  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
+|  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
+|  [Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-us/mobile-0/brand-2/xf-88b1eb77da85/candidate/so/pm/1/pl/1/opp/8319/apply/en-us) | New York, NY | Present | Min. GPA 3.0, prefers C, C++, Java or C# programming skills
+|  [Houston Mechatronics](https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y) | Webster, TX | Present | US Citizenship is required; Prefers robotics experience, Linux command line, and Python programming language
+|  [Optiver](https://www.optiver.com/na/en/job-opportunities/us-4315469002) | Chicago | Present | Prefers C, C++, Java or C# programming skills; No sponsorship
+|  [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4367942002) | New York, NY | Present | Prefers C++ or Java programming skills
+|  [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Several:  Dublin, London, Chicago, Hong Kong, London, New York, Austin  | Present | SWE, Quant, IT, DevOps
+|  [Red Ventures](https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1) | Austin, TX | Present | Juniors, Prefers experience with top web languages
+|  [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7) | San Francisco, CA | Present | Juniors+
+|  [Front](https://frontapp.com/jobs) | San Francisco, Paris | Present | Juniors+
+|  [Vail](https://www.vailsys.com/about/careers/) | Chicago | Present | SWE, DevOps
 |  [Vyte](https://jobs.stationf.co/companies/vyte) |  Paris, France |  Present | Positions available for both Frontend and Backend Internships in Paris|
 |   |   |   |   |
 |   |   |   |   |

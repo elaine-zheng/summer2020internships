@@ -45,6 +45,7 @@ To contribute:
 |  [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7) | San Francisco, CA | Present | Juniors+
 |  [Front](https://frontapp.com/jobs) | San Francisco, Paris | Present | Juniors+
 |  [Vail](https://www.vailsys.com/about/careers/) | Chicago | Present | SWE, DevOps
+|  [Vyte](https://jobs.stationf.co/companies/vyte) |  Paris, France |  Present | Positions available for both Frontend and Backend Internships in Paris|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

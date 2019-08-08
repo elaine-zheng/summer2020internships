@@ -52,6 +52,12 @@ To contribute:
 |  [Fast Enterprises](https://www.fastenterprises.com/careers/positions/) | USA | Present | Must be pursuing degree |
 | [Phone2Action](https://phone2action.com/civic-tech-fellows-program/) | Arlington, VA | Present | All levels accepted - including high school. Well paid fellowships available in Product, Engineering, Sales, Marketing, Customer Success, and Operations. Interested in applying? Send your resume and a letter of interest to Jennifer Leo at [jleo@phone2action.com](mailto:jleo@phone2action.com) ... and see our [jobs site for FT positions](https://phone2action.com/jobs) |
 |  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/?lang=en) | Multiple Countries | Present |
+|  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1) | 10+ Locations Across the US | Present |
+|  [Dropbox](https://www.dropbox.com/jobs/listing/1810089/apply?gh_src=aonhf1) | San Francisco, Seattle, New York | Present |
+|  [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?t=edd9906d1) | Provo, Seattle | Present |
+|  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 or 2022 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
+|  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

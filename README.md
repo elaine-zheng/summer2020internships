@@ -59,7 +59,8 @@ To contribute:
 |  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present 
 |  [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982) | New York | Present
-|  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago| Present
+|  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago | Present
+|  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

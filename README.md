@@ -57,7 +57,7 @@ To contribute:
 |  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 or 2022 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
 |  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
-|  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |  San Fransisco, Seattle | Present |
+|  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |  San Francisco, Seattle | Present |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

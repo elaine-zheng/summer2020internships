@@ -66,7 +66,7 @@ To contribute:
 |  [Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7/) | San Francisco | Present | Expected graduation date by June 2021 |
 |  [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship) | San Francisco | Present |
 |  [Front](https://jobs.lever.co/frontapp/1986a215-0315-43e5-bbef-684edd3cf432?lever-source=frontapp) | San Francisco, Paris | Present | Recently completed or pursuing a Bachelor’s degree in Computer Science, graduating in 2020 or early 2021 |
-|   |   |   |   |
+|  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |   |
 |   |   |   |   |
 |   |   |   |   |
 

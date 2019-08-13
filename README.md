@@ -1,4 +1,4 @@
-
+﻿
 # Summer 2020 Internships
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
 
@@ -35,6 +35,7 @@ To contribute:
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
 |  [Facebook](https://www.facebook.com/careers/jobs/?roles[0]=intern) | Several: Menlo Park, New York, Boston, Seattle, etc. | Present  |  FrontEnd, SWE, AI, etc. |
 |   [The Vanguard Group](https://www.vanguardjobs.com/job-search-results/?keyword=124896%20OR%20124907%20OR%20124884%20OR%20124925) | Malvern, PA and Charlotte, NC | Present  | 3.0 GPA Preferred, Software Development, Technology Operations  |
+|  [Leidos](https://careers.leidos.com/search/intern/jobs) | McLean, VA and Morgantown, WV| Present |
 | [Los Alamos National Lab](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw..)  | Los Alamos, NM  | due September 30 | Min. GPA 3.0 Coverletter Required  |
 |  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
 |  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
@@ -49,6 +50,14 @@ To contribute:
 |  [Vail](https://www.vailsys.com/about/careers/) | Chicago | Present | SWE, DevOps
 |  [Vyte](https://jobs.stationf.co/companies/vyte) |  Paris, France |  Present | Positions available for both Frontend and Backend Internships in Paris|
 |  [Fast Enterprises](https://www.fastenterprises.com/careers/positions/) | USA | Present | Must be pursuing degree |
+| [Phone2Action](https://phone2action.com/civic-tech-fellows-program/) | Arlington, VA | Present | All levels accepted - including high school. Well paid fellowships available in Product, Engineering, Sales, Marketing, Customer Success, and Operations. Interested in applying? Send your resume and a letter of interest to Jennifer Leo at [jleo@phone2action.com](mailto:jleo@phone2action.com) ... and see our [jobs site for FT positions](https://phone2action.com/jobs) |
+|  [IBM](https://careers.ibm.com/ListJobs/All/Search/Position-Type/Intern/?lang=en) | Multiple Countries | Present |
+|  [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2020-Intern---Software-Engineer_JR45627-1) | 10+ Locations Across the US | Present |
+|  [Dropbox](https://www.dropbox.com/jobs/listing/1810089/apply?gh_src=aonhf1) | San Francisco, Seattle, New York | Present |
+|  [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?t=edd9906d1) | Provo, Seattle | Present |
+|  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 or 2022 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
+|  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

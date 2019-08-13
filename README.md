@@ -70,7 +70,7 @@ To contribute:
 |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1265291) | San Jose, Seattle, San Francisco, Richardson, Austin, Cambridge, Richfield, Knoxville, Lawrenceville, Alpharetta, Fulton | Present |
 |  [Wish](https://jobs.lever.co/wish/a7c634f6-40d6-43cd-828a-dc0bfc8b33a8) | San Francisco | Present |
 |  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
-|   |   |   |   |
+|  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |   |   |   |   |
 
 

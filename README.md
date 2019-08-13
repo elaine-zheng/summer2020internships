@@ -69,6 +69,7 @@ To contribute:
 |  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |  
 |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1265291) | San Jose, Seattle, San Francisco, Richardson, Austin, Cambridge, Richfield, Knoxville, Lawrenceville, Alpharetta, Fulton | Present |
 |  [Wish](https://jobs.lever.co/wish/a7c634f6-40d6-43cd-828a-dc0bfc8b33a8) | San Francisco | Present |
+|  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
 |   |   |   |   |
 |   |   |   |   |
 

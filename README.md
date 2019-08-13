@@ -68,6 +68,7 @@ To contribute:
 |  [Front](https://jobs.lever.co/frontapp/1986a215-0315-43e5-bbef-684edd3cf432?lever-source=frontapp) | San Francisco, Paris | Present | Recently completed or pursuing a Bachelor’s degree in Computer Science, graduating in 2020 or early 2021 |
 |  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |  
 |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1265291) | San Jose, Seattle, San Francisco, Richardson, Austin, Cambridge, Richfield, Knoxville, Lawrenceville, Alpharetta, Fulton | Present |
+|  [Wish](https://jobs.lever.co/wish/a7c634f6-40d6-43cd-828a-dc0bfc8b33a8) | San Francisco | Present |
 |   |   |   |   |
 |   |   |   |   |
 

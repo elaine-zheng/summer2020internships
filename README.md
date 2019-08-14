@@ -57,12 +57,28 @@ To contribute:
 |  [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?t=edd9906d1) | Provo, Seattle | Present |
 |  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 or 2022 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
 |  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present 
+|  [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982) | New York | Present
+|  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago | Present
+|  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
+|  [Atlassian](https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b) | Mountain View, CA | Present | Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021 |
+|  [Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2020/1786/12562814) | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | Present | Bachelor’s degree or higher obtained between December 2020 and August 2021 |
+|  [Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7/) | San Francisco | Present | Expected graduation date by June 2021 |
+|  [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship) | San Francisco | Present |
+|  [Front](https://jobs.lever.co/frontapp/1986a215-0315-43e5-bbef-684edd3cf432?lever-source=frontapp) | San Francisco, Paris | Present | Recently completed or pursuing a Bachelor’s degree in Computer Science, graduating in 2020 or early 2021 |
+|  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |  
+|  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1265291) | San Jose, Seattle, San Francisco, Richardson, Austin, Cambridge, Richfield, Knoxville, Lawrenceville, Alpharetta, Fulton | Present |
+|  [Wish](https://jobs.lever.co/wish/a7c634f6-40d6-43cd-828a-dc0bfc8b33a8) | San Francisco | Present |
+|  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
+|  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
+|  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
 |  [Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045) | Los Angeles, California | Present | Front End |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+
 
 
 

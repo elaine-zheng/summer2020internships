@@ -72,6 +72,13 @@ To contribute:
 |  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
+|  [Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045) | Los Angeles, California | Present | Front End |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 
 
 

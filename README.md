@@ -1,4 +1,3 @@
-﻿
 # Summer 2020 Internships
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
 
@@ -73,6 +72,8 @@ To contribute:
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
+|  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |  San Francisco, Seattle | Present |
+|  [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |  New York, London, Hong Kong | Present | Trading Interns, Business Development Interns, Engineering Interns, Research Interns |
 |  [Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045) | Los Angeles, California | Present | Front End |
 |   |   |   |   |
 |   |   |   |   |

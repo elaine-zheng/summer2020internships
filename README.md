@@ -28,7 +28,7 @@ To contribute:
 |  [SAS](https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Santa Clara Valley (Cupertino), California (Mainly) | Present  | Pipeline for students with Autism |
 |  [NBCUniversal](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=442107&codes=LinkedIn#jobDetails=442107_5108) | Tokyo or Stamford, CT | Present |For Tokyo 2020 Olympics; No sponsorship; Sophomores+
 |  [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x08859m) |  Chicago |  Present | Juniors+; No sponsorship |
-|  [Collins Aerospace](https://jobs.collinsaerospace.com/job/cedar-rapids/software-electrical-engineering-intern-summer-2020/1738/12601751) | Cedar Rapids, IA | Present | US Citizenship is required
+|  [Collins Aerospace](https://utc-disability.jobs/cedar-rapids-ia/software-engineering-intern-summer-2020/C20735DD166648E4991FC2872EF732CB/job) | Cedar Rapids, IA | Present | Must be capable of obtaining a U.S. Department of Defense (DoD) Security Clearance, US Citizenship is required
 |  [Matco Tools](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27]) | Stow, OH | Present | Juniors+, prefers Java programming skills
 |  [Breakthrough](https://breakthroughfuel.applytojob.com/apply/3a3PNGue1o/Summer-2020-Intern) | Green Bay, WI | Present | Min. GPA 3.0, Cover letter required
 |  [Rimeto](https://jobs.lever.co/rimeto/d357c4b5-5a3e-4c75-84fd-057d2051cd92) | San Francisco, CA | Present |
@@ -72,6 +72,10 @@ To contribute:
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
+|  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
+|  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | August 16th, 2019 (6pm PST) | Juniors, BOLD program
+|  [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207&gh_src=85sx4a1) |  Cambridge, MA | October 14, 2019 | Prefers web development experience
+|  [AllianceBernstein](https://careers-alliancebernstein.icims.com/jobs/6602/software-development-internship---technology-%26-operations-program/job) |  Nashville, TN | Present | Juniors
 |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |  San Francisco, Seattle | Present |
 |  [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |  New York, London, Hong Kong | Present | Trading Interns, Business Development Interns, Engineering Interns, Research Interns |
 |  [Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045) | Los Angeles, California | Present | Front End |

@@ -72,8 +72,8 @@ To contribute:
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
-|[Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
-|[Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
+|  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
+|  [Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
 |  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
 |  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | August 16th, 2019 (6pm PST) | Juniors, BOLD program
 |  [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207&gh_src=85sx4a1) |  Cambridge, MA | October 14, 2019 | Prefers web development experience

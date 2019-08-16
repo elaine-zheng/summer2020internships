@@ -86,6 +86,7 @@ To contribute:
 |  [Yelp](https://www.yelp.com/careers/job-openings?keywords=Summer&team=all&location=all) | San Francisco | Present |
 |  [Rockset](https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMHn16UbFdig) | San Mateo | Present |
 |  [Matician](https://hire.withgoogle.com/public/jobs/maticiancom) | Palo Alto | Present |
+|  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 
 
 

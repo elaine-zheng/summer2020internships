@@ -89,6 +89,7 @@ To contribute:
 |  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 |  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
 |  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
+|  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
 
 
 

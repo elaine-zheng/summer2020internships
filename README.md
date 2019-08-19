@@ -71,18 +71,24 @@ To contribute:
 |  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
-|[Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
-|[Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
+|  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
+|  [Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
 |  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
 |  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | August 16th, 2019 (6pm PST) | Juniors, BOLD program, Research Scientist
 |  [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207&gh_src=85sx4a1) |  Cambridge, MA | October 14, 2019 | Prefers web development experience
 |  [AllianceBernstein](https://careers-alliancebernstein.icims.com/jobs/6602/software-development-internship---technology-%26-operations-program/job) |  Nashville, TN | Present | Juniors
 |  [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |  New York, London, Hong Kong | Present | Trading Interns, Business Development Interns, Engineering Interns, Research Interns |
 |  [Snapchat](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/IT-Internal-Front-End-Developer-Intern_R0009045) | Los Angeles, California | Present | Front End |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|  [Toast](https://boards.greenhouse.io/embed/job_app?token=1345570&gh_src=dbd19ebc1) | Dublin | Present |   |
+|  [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/1814883) | San Francisco | Present | Graduating in 2021 |
+|  [Gusto](https://boards.greenhouse.io/gusto/jobs/1823034) | San Francisco, Denver | Present | Denver has a seperate application. |
+|  [Yelp](https://www.yelp.com/careers/job-openings?keywords=Summer&team=all&location=all) | San Francisco | Present |
+|  [Rockset](https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMHn16UbFdig) | San Mateo | Present |
+|  [Matician](https://hire.withgoogle.com/public/jobs/maticiancom) | Palo Alto | Present |
+|  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
+|  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
+|  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
 
 
 

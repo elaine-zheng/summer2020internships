@@ -94,6 +94,7 @@ To contribute:
 |  [Invoca](https://jobs.smartrecruiters.com/Invoca/743999678138901-software-engineer-intern) | Santa Barbara | Present |
 |  [Taboola](https://careers.taboola.com/job/1786167?gh_jid=1786167&gh_src=u6pd1t&t=1566291622) | Los Angeles | Present | 
 |  [WeRide.ai](https://boards.greenhouse.io/jingchicorp/jobs/1448478?gh_src=c6dae5a61) | San Jose, CA | Present | BS/MS/PhD degree in Robotics, Computer Science or equivalent practical experience. Experience in data structures and advanced algorithms. Experience programming in C++. Graduating in Dec 2019 or May 2020 |
-|  [Amazon Web Services](https://www.amazon.jobs/en/jobs/919646/2020-summer-software-development-engineer-intern-iad?ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Herdon Area, Washington DC Area | Present | US Citizenship Required 
+|  [Amazon Web Services](https://www.amazon.jobs/en/jobs/919646/2020-summer-software-development-engineer-intern-iad?ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Herdon Area, Washington DC Area | Present | US Citizenship Required
+|  [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1550728) | Chicago | Present | 
 
 

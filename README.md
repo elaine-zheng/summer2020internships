@@ -100,5 +100,6 @@ To contribute:
 |  [SelfMade](https://jobs.lever.co/selfmade/bca70f35-f732-4ecb-981e-b847fc9b5809) | New York | Present
 |  [NerdWallet](https://www.nerdwallet.com/careers/job/1799768) | San Francisco | Present
 |  [Lyft](https://boards.greenhouse.io/lyft/jobs/4358047002) | San Francisco, Seattle, New York | Present |
+|  [Valkyrie](https://www.valkyrietrading.com/careers/software-engineer-intern/) | Chicago, IL | Present | Expected graduation prior to June 2021
 
 

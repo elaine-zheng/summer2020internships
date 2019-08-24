@@ -105,5 +105,6 @@ To contribute:
 |  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
 |  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
 |  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |
+|  [Bloomberg](https://careers.bloomberg.com/job/detail/76852) | New York, NY | Present | Have programming experience in C, C++, Java or Python, Have a minimum GPA of 3.0, Be working toward a BA, BS, MS or PhD in Computer Science |
 
 

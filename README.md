@@ -88,8 +88,14 @@ To contribute:
 |  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 |  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
 |  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
-
-
-
-
-
+|  [Applied Intuition](https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAOIEfFoeqoZTq) | Sunnyvale, CA | Present | |
+|  [Wolverine Trading](https://www.wolve.com/careers) | Chicago, IL | Present | Juniors+, sponsorship is not available, multiple positions: SWE, Data, and Quant |
+|  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=[u%27599939%27]) | Washington, DC | Present | |
+|  [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=Software%20Engineer%20Intern&parent_category=Corporate%2FOther) | Atlanta, Austin, Dallas | Present | Must be legally permitted to work in the United States |
+|  [RetailMeNot, Inc.](https://jobs.lever.co/retailmenot/13c1b9e0-d1f7-42a3-b60c-c7fe66e4f0f8/apply) | Austin, TX | Present | |
+|  [New Relic](https://jobs.jobvite.com/newrelic/job/o5uQafwj) | San Francisco, CA | Present | Sponsorship is not available, prefers experience with Java |
+|  [Sony Interactive Entertainment PlayStation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/1833253) | San Francisco, CA | Present | Seniors, must be proficiency with C#, JavaScript and experience with C++, Python |
+|  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Python, Go, C, C++, or JavaScript |
+|  [Quantcast](https://jobs.lever.co/quantcast/fadcc036-75cb-4304-be2a-8903de4611da) | Seattle, WA | Present | Juniors+, prefers experience with Java, C++, or Python |
+|  [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2020_R002107-1) | Johnson City, Philadelphia, San Leandro, Scottsdale | Present | Min. GPA 3.25, prefers experience with C, C++, C#, Java, JavaScript, or Python |
+|  [Cvent](https://www.vistaequitypartners.com/our-firm/careers/?jobid=506363&location=1083) | Atlanta, GA | Present | Rising senior, Min. GPA 3.0, |

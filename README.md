@@ -70,7 +70,6 @@ To contribute:
 |  [Samsara](https://boards.greenhouse.io/samsara/jobs/1818392) | San Francisco, Atlanta | Present | San Francisco and Atlanta have seperate job applications to fill out |
 |  [Konami](https://recruiting.ultipro.com/KON1000/JobBoard/c70fc266-51c5-5296-2005-ff4f122ccc1c//OpportunityDetail?opportunityId=da62060d-b31c-4a36-94c6-b20b3ae4d6cd) | Las Vegas | Present | Must be local candidate, no relocation availible |
 |  [Splunk](https://jobs.jobvite.com/splunk/job/o21NafwK) | San Jose, San Francisco | Present |
-|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present |
 |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
 |  [Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
 |  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
@@ -97,3 +96,24 @@ To contribute:
 |  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Juniors+, prefers experience with Java, C++, or Python |
 |  [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2020_R002107-1) | Johnson City, Philadelphia, San Leandro, Scottsdale | Present | Min. GPA 3.25, prefers experience with C, C++, C#, Java, JavaScript, or Python |
 |  [Cvent](https://www.vistaequitypartners.com/our-firm/careers/?jobid=506363&location=1083) | Atlanta, GA | Present | Rising senior, Min. GPA 3.0, |
+|  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
+|  [Nuro](https://nuro.ai/careersitem?gh_jid=1785972) | Mountain View | Present | You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc. |
+|  [Invoca](https://jobs.smartrecruiters.com/Invoca/743999678138901-software-engineer-intern) | Santa Barbara | Present |
+|  [Taboola](https://careers.taboola.com/job/1786167?gh_jid=1786167&gh_src=u6pd1t&t=1566291622) | Los Angeles | Present | 
+|  [WeRide.ai](https://boards.greenhouse.io/jingchicorp/jobs/1448478?gh_src=c6dae5a61) | San Jose, CA | Present | BS/MS/PhD degree in Robotics, Computer Science or equivalent practical experience. Experience in data structures and advanced algorithms. Experience programming in C++. Graduating in Dec 2019 or May 2020 |
+|  [Amazon Web Services](https://www.amazon.jobs/en/jobs/919646/2020-summer-software-development-engineer-intern-iad?ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Herdon Area, Washington DC Area | Present | US Citizenship Required
+|  [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1550728) | Chicago | Present |
+|  [Platform9](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY) | Sunnyvale, CA | Present | Coursework in one or more areas: operating systems, distributed systems, networks, security or user interface design, Knowledge of Linux/Unix Systems, Programming proficiency in any one language: python, javascript, C/C++, java, golang, GPA 3.5 and above
+|  [SelfMade](https://jobs.lever.co/selfmade/bca70f35-f732-4ecb-981e-b847fc9b5809) | New York | Present
+|  [NerdWallet](https://www.nerdwallet.com/careers/job/1799768) | San Francisco | Present
+|  [Lyft](https://boards.greenhouse.io/lyft/jobs/4358047002) | San Francisco, Seattle, New York | Present |
+|  [Valkyrie](https://www.valkyrietrading.com/careers/software-engineer-intern/) | Chicago, IL | Present | Expected graduation prior to June 2021
+|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required
+|  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
+|  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
+|  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |
+|  [Bloomberg](https://careers.bloomberg.com/job/detail/76852) | New York, NY | Present | Have programming experience in C, C++, Java or Python, Have a minimum GPA of 3.0, Be working toward a BA, BS, MS or PhD in Computer Science |
+|  [Yext](https://boards.greenhouse.io/embed/job_app?token=1808516) | New York, NY | Present |
+|  [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/job/ocL89fwY) | Santa Clara, CA | Present | To apply, you must be pursuing a 4-year Undergraduate Degree with a GPA of 3.0 or above, a 2-year Master’s Degree or a Doctorate degree and returning to school in the fall. You must have the authorization to work within the United States. |
+|  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
+

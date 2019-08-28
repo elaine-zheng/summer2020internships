@@ -89,9 +89,24 @@ To contribute:
 |  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 |  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
 |  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
+|  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
+|  [Nuro](https://nuro.ai/careersitem?gh_jid=1785972) | Mountain View | Present | You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc. |
+|  [Invoca](https://jobs.smartrecruiters.com/Invoca/743999678138901-software-engineer-intern) | Santa Barbara | Present |
+|  [Taboola](https://careers.taboola.com/job/1786167?gh_jid=1786167&gh_src=u6pd1t&t=1566291622) | Los Angeles | Present | 
+|  [WeRide.ai](https://boards.greenhouse.io/jingchicorp/jobs/1448478?gh_src=c6dae5a61) | San Jose, CA | Present | BS/MS/PhD degree in Robotics, Computer Science or equivalent practical experience. Experience in data structures and advanced algorithms. Experience programming in C++. Graduating in Dec 2019 or May 2020 |
+|  [Amazon Web Services](https://www.amazon.jobs/en/jobs/919646/2020-summer-software-development-engineer-intern-iad?ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Herdon Area, Washington DC Area | Present | US Citizenship Required
+|  [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1550728) | Chicago | Present |
+|  [Platform9](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY) | Sunnyvale, CA | Present | Coursework in one or more areas: operating systems, distributed systems, networks, security or user interface design, Knowledge of Linux/Unix Systems, Programming proficiency in any one language: python, javascript, C/C++, java, golang, GPA 3.5 and above
+|  [SelfMade](https://jobs.lever.co/selfmade/bca70f35-f732-4ecb-981e-b847fc9b5809) | New York | Present
+|  [NerdWallet](https://www.nerdwallet.com/careers/job/1799768) | San Francisco | Present
+|  [Lyft](https://boards.greenhouse.io/lyft/jobs/4358047002) | San Francisco, Seattle, New York | Present |
+|  [Valkyrie](https://www.valkyrietrading.com/careers/software-engineer-intern/) | Chicago, IL | Present | Expected graduation prior to June 2021
+|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required
+|  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
+|  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
+|  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |
+|  [Bloomberg](https://careers.bloomberg.com/job/detail/76852) | New York, NY | Present | Have programming experience in C, C++, Java or Python, Have a minimum GPA of 3.0, Be working toward a BA, BS, MS or PhD in Computer Science |
+|  [Yext](https://boards.greenhouse.io/embed/job_app?token=1808516) | New York, NY | Present |
+|  [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/job/ocL89fwY) | Santa Clara, CA | Present | To apply, you must be pursuing a 4-year Undergraduate Degree with a GPA of 3.0 or above, a 2-year Master’s Degree or a Doctorate degree and returning to school in the fall. You must have the authorization to work within the United States. |
 |  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
-
-
-
-
 

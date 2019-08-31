@@ -117,3 +117,4 @@ To contribute:
 |  [Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-Intern/3446) | Carlsbad, CA | Present |
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=599939) | Washington, DC | Recruitment on a rolling basis until the position is filled |
 |  [WillowTree](https://www.willowtreeapps.com/careers/jobs/4381004002/software-engineer-intern) | Charlottesville, VA | Present | Graduating in 2021 or 2022 |
+|  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs) | Various in US, Canada, China | Present |

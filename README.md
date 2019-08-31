@@ -112,4 +112,5 @@ To contribute:
 |  [Asana](https://asana.com/jobs/university-recruiting#jobs-listings) | San Francisco, New York | Present 
 |  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field
 |  [Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | San Francisco, Denver, Irvine, Redwood City | Present |
-|  [Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Intern---Summer-2020----Seattle--WA---San-Francisco--CA---Frisco--TX_23752) | San Francisco, Seattle | Present | 
+|  [Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Intern---Summer-2020----Seattle--WA---San-Francisco--CA---Frisco--TX_23752) | San Francisco, Seattle | Present |
+|  [Affirm](https://jobs.lever.co/affirm/5340f1d3-cd6d-44ef-a5c6-f9def8609d02) | San Francisco | Present |

@@ -122,4 +122,5 @@ To contribute:
 |  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |\
 |  [Benchling](https://www.benchling.com/careers/?gh_jid=1843932#detail) | San Francisco, CA | Present |
 |  [Garmin](https://garmin.taleo.net/careersection/garmin+career+section/jobsearch.ftl) | Various in US | Present | Seperate application for each location, part-time internships availible |
+|  [CTRL-Lab](https://jobs.lever.co/ctrl-labs/9218edb0-e31a-452c-8949-66d59e40423c) | New York, NY | Present |
 

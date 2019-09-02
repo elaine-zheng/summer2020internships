@@ -120,3 +120,4 @@ To contribute:
 |  [Flatiron](https://flatiron.com/careers/open-positions/1805778) | New York City, NY | Present | Juniors+ |
 |  [Kiva](https://boards.greenhouse.io/kivaorg/jobs/1845233) | San Francisco, CA and Portland, OR | Present | Freshmen and Sophomores ONLY |
 |  [Expel](https://expel.io/about/careers/?gh_jid=4019173002) | Herndon, VA | Present | Must be around DC-Metro area, prefers front-end experience |
+|  [SigOpt](https://jobs.lever.co/sigopt/141cec90-5ff0-46dc-8e99-02760d3e0f2d) | San Francisco, CA | Present | Prefers engineering internship or professional experience and strong programming ability it at least one language |

@@ -118,3 +118,4 @@ To contribute:
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=599939) | Washington, DC | Recruitment on a rolling basis until the position is filled |
 |  [WillowTree](https://www.willowtreeapps.com/careers/jobs/4381004002/software-engineer-intern) | Charlottesville, VA | Present | Graduating in 2021 or 2022 |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs) | Various in US, Canada, China | Present |
+|  [Ambarella](https://chp.tbe.taleo.net/chp02/ats/careers/requisition.jsp?org=AMBARELLA2015&cws=1&rid=744) | Santa Clara, CA | Present | M.S. degree or M.S. Degree (in progress) in Computer Science, Computer Engineering, or related field; Excellent in C or C++ programming languages; Experience with Python scripting languages; Background in Processor Architecture Design or Modeling; Compiler Design and Implementation; Image Processing; Machine Learning; Embedded Firmware Development; Benchmarking or Performance Tuning. |

@@ -118,3 +118,4 @@ To contribute:
 |  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
 |  [Airbnb](https://careers.airbnb.com/positions/1815030/) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Java, Scala, Ruby and/or Ruby on Rails, C++, SQL, or HTML/CSS and Javascript |
 |  [Flatiron](https://flatiron.com/careers/open-positions/1805778) | New York City, NY | Present | Juniors+ |
+|  [Kiva](https://boards.greenhouse.io/kivaorg/jobs/1845233) | San Francisco, CA and Portland, OR | Present | Freshmen and Sophomores ONLY |

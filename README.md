@@ -125,4 +125,4 @@ To contribute:
 |  [CTRL-Lab](https://jobs.lever.co/ctrl-labs/9218edb0-e31a-452c-8949-66d59e40423c) | New York, NY | Present |
 |  [BookBub](https://www.bookbub.com/positions?gh_jid=1809830) | Cambridge, MA | Present |
 |  [Quantcast](https://www.quantcast.com/careers/openings) | San Francisco | Present | Graduation date between Dec 2020 and June 2021 |
-
+|  [Stantec](https://stantec.jobs/burlington-ma/computer-science-engineering-intern/C8AE9D32CDAE4CC3A474DC47B041DCBF/job/) | Burlington, MA | Present |

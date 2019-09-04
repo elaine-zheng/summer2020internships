@@ -131,3 +131,4 @@ To contribute:
 |  [Plaid](https://jobs.lever.co/plaid/4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Francisco, CA | Present |
 |  [Lyft Level 5](https://boards.greenhouse.io/embed/job_app?token=4417366002&gh_src=uwvxb4jc2) | Palo Alto, CA | Present |
 |  [Riot Games](https://www.riotgames.com/en/work-with-us/job/1839619?gh_src=vs7ga51) | SF Bay Area | Present | Familiarity with an object-oriented programming (OOP) language i.e. Java, C++ |
+|  [Pinterest](https://careers.pinterest.com/careers/university-0) | San Francisco, Seattle | Present | Pinterest Labs Intern, Data Science and SWE availible |

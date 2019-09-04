@@ -133,3 +133,4 @@ To contribute:
 |  [Riot Games](https://www.riotgames.com/en/work-with-us/job/1839619?gh_src=vs7ga51) | SF Bay Area | Present | Familiarity with an object-oriented programming (OOP) language i.e. Java, C++ |
 |  [Pinterest](https://careers.pinterest.com/careers/university-0) | San Francisco, Seattle | Present | Pinterest Labs Intern, Data Science and SWE availible |
 |  [Blackrock](https://blackrock.tal.net/vx/candidate/jobboard/vacancy/1/adv) | Asia, Americas, EMEA | Present | Summer Analyst and Placement, Juniors Only |
+|  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Arlington, VA; Singapore | Present |

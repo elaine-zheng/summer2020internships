@@ -136,3 +136,4 @@ To contribute:
 |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/Campus/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Arlington, VA; Singapore | Present |
 |  [Crowdstrike](https://www.crowdstrike.com/careers/job-listings/) | El Segundo, California; Irvine, California | Present |
 |  [SAS](https://careers-sas.icims.com/jobs/18680/2020-summer-internship-program-%28bachelors-candidates%29/job) | Cary, NC | Present |
+|  [Aurora](https://aurora.tech/jobs/?gh_jid=4237844002) | Pittsburgh, PA | Present | MS or PhD in Robotics, Computer Science, EE, MechE, or related field highly preferred |

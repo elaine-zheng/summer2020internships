@@ -1,3 +1,4 @@
+
 # Summer 2020 Internships
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
 
@@ -62,9 +63,7 @@ To contribute:
 |  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
 |  [Atlassian](https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b) | Mountain View, CA | Present | Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021 |
 |  [Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2020/1786/12562814) | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | Present | Bachelor’s degree or higher obtained between December 2020 and August 2021 |
-|  [Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7/) | San Francisco | Present | Expected graduation date by June 2021 |
 |  [Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship) | San Francisco | Present |
-|  [Front](https://jobs.lever.co/frontapp/1986a215-0315-43e5-bbef-684edd3cf432?lever-source=frontapp) | San Francisco, Paris | Present | Recently completed or pursuing a Bachelor’s degree in Computer Science, graduating in 2020 or early 2021 |
 |  [Figma](https://jobs.lever.co/figma/91da97b9-ff1d-4e08-a2f1-4867537e5eb2)| San Francisco | Present |  
 |  [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1265291) | San Jose, Seattle, San Francisco, Richardson, Austin, Cambridge, Richfield, Knoxville, Lawrenceville, Alpharetta, Fulton | Present |
 |  [Wish](https://jobs.lever.co/wish/a7c634f6-40d6-43cd-828a-dc0bfc8b33a8) | San Francisco | Present |
@@ -74,7 +73,7 @@ To contribute:
 |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
 |  [Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
 |  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
-|  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | August 16th, 2019 (6pm PST) | Juniors, BOLD program, Research Scientist
+|  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | ~~August 16th, 2019 (6pm PST)~~ Reopens September 16th, 2019 - November 11th 2019 | Juniors, BOLD program, Research Scientist
 |  [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207&gh_src=85sx4a1) |  Cambridge, MA | October 14, 2019 | Prefers web development experience
 |  [AllianceBernstein](https://careers-alliancebernstein.icims.com/jobs/6602/software-development-internship---technology-%26-operations-program/job) |  Nashville, TN | Present | Juniors
 |  [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |  New York, London, Hong Kong | Present | Trading Interns, Business Development Interns, Engineering Interns, Research Interns |
@@ -88,6 +87,15 @@ To contribute:
 |  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 |  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
 |  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
+|  [Applied Intuition](https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAOIEfFoeqoZTq) | Sunnyvale, CA | Present | |
+|  [Wolverine Trading](https://www.wolve.com/careers) | Chicago, IL | Present | Juniors+, sponsorship is not available, multiple positions: SWE, Data, and Quant |
+|  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=[u%27599939%27]) | Washington, DC | Present | |
+|  [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=Software%20Engineer%20Intern&parent_category=Corporate%2FOther) | Atlanta, Austin, Dallas | Present | Must be legally permitted to work in the United States |
+|  [RetailMeNot, Inc.](https://jobs.lever.co/retailmenot/13c1b9e0-d1f7-42a3-b60c-c7fe66e4f0f8/apply) | Austin, TX | Present | |
+|  [Sony Interactive Entertainment PlayStation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/1833253) | San Francisco, CA | Present | Seniors, must be proficiency with C#, JavaScript and experience with C++, Python |
+|  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Juniors+, prefers experience with Java, C++, or Python |
+|  [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2020_R002107-1) | Johnson City, Philadelphia, San Leandro, Scottsdale | Present | Min. GPA 3.25, prefers experience with C, C++, C#, Java, JavaScript, or Python |
+|  [Cvent](https://www.vistaequitypartners.com/our-firm/careers/?jobid=506363&location=1083) | Atlanta, GA | Present | Rising senior, Min. GPA 3.0, |
 |  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
 |  [Nuro](https://nuro.ai/careersitem?gh_jid=1785972) | Mountain View | Present | You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc. |
 |  [Invoca](https://jobs.smartrecruiters.com/Invoca/743999678138901-software-engineer-intern) | Santa Barbara | Present |
@@ -108,4 +116,11 @@ To contribute:
 |  [Yext](https://boards.greenhouse.io/embed/job_app?token=1808516) | New York, NY | Present |
 |  [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/job/ocL89fwY) | Santa Clara, CA | Present | To apply, you must be pursuing a 4-year Undergraduate Degree with a GPA of 3.0 or above, a 2-year Master’s Degree or a Doctorate degree and returning to school in the fall. You must have the authorization to work within the United States. |
 |  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
-
+|  [Airbnb](https://careers.airbnb.com/positions/1815030/) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Java, Scala, Ruby and/or Ruby on Rails, C++, SQL, or HTML/CSS and Javascript |
+|  [Flatiron](https://flatiron.com/careers/open-positions/1805778) | New York City, NY | Present | Juniors+ |
+|  [Kiva](https://boards.greenhouse.io/kivaorg/jobs/1845233) | San Francisco, CA and Portland, OR | Present | Freshmen and Sophomores ONLY |
+|  [Expel](https://expel.io/about/careers/?gh_jid=4019173002) | Herndon, VA | Present | Must be around DC-Metro area, prefers front-end experience |
+|  [SigOpt](https://jobs.lever.co/sigopt/141cec90-5ff0-46dc-8e99-02760d3e0f2d) | San Francisco, CA | Present | Prefers engineering internship or professional experience and strong programming ability it at least one language |
+|  [datto](https://www.datto.com/careers/job-board/post/1604239) | Boston, Norwalk, Rochester | Present | Prefers PHP experience with object-oriented programming skills and MySQL |
+|  [Karat](https://boards.greenhouse.io/karat/jobs/4252508002) | Seattle, WA | Present | Prefers dynamic programming language in web development and web apps |
+|  [Illumio](https://www.illumio.com/career-openings?gh_jid=4417163002) | Sunnyvale, CA | Present | Rising seniors |

@@ -129,4 +129,4 @@ To contribute:
 |  [Tableau](https://tableau.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Software-Engineer-Intern_R0000234?source=LinkedIn) | Seattle, WA; Cambridge, MA; Palo Alto, CA; Austin, TX | Present |
 |  [Pivotal](https://boards.greenhouse.io/embed/job_app?token=1851404) | San Francisco, CA | Present |
 |  [Plaid](https://jobs.lever.co/plaid/4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Francisco, CA | Present |
-|  [Lyft Level 5](https://boards.greenhouse.io/embed/job_app?token=4417366002&gh_src=uwvxb4jc2_ | Palo Alto, CA | Present |
+|  [Lyft Level 5](https://boards.greenhouse.io/embed/job_app?token=4417366002&gh_src=uwvxb4jc2) | Palo Alto, CA | Present |

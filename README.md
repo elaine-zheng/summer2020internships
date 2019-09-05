@@ -155,3 +155,4 @@ To contribute:
 |  [Karat](https://boards.greenhouse.io/karat/jobs/4252508002) | Seattle, WA | Present | Prefers dynamic programming language in web development and web apps |
 |  [Illumio](https://www.illumio.com/career-openings?gh_jid=4417163002) | Sunnyvale, CA | Present | Rising seniors |
 |  [Stevens Capital Management](https://www.scm-lp.com/internships) | Radnor, PA | Present |
+|  [Squarespace](https://www.squarespace.com/careers/jobs/1852871?gh_src=afe793d31) | New York, NY | Present | Currently enrolled rising Senior graduating in December 2020 or May 2021 |

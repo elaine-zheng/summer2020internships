@@ -159,3 +159,4 @@ To contribute:
 |  [Petal](https://jobs.lever.co/petalcard/907525c3-7bd3-40d4-98a9-636304415e4f/apply) | New York, NY | Present |
 |  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
 |  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |
+|  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |

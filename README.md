@@ -107,7 +107,7 @@ To contribute:
 |  [NerdWallet](https://www.nerdwallet.com/careers/job/1799768) | San Francisco | Present
 |  [Lyft](https://boards.greenhouse.io/lyft/jobs/4358047002) | San Francisco, Seattle, New York | Present |
 |  [Valkyrie](https://www.valkyrietrading.com/careers/software-engineer-intern/) | Chicago, IL | Present | Expected graduation prior to June 2021
-|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required
+|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX; New York, NY | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required (Dallas and New York have seperate applications)
 |  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
 |  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
 |  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |

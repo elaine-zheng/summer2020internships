@@ -154,3 +154,4 @@ To contribute:
 |  [datto](https://www.datto.com/careers/job-board/post/1604239) | Boston, Norwalk, Rochester | Present | Prefers PHP experience with object-oriented programming skills and MySQL |
 |  [Karat](https://boards.greenhouse.io/karat/jobs/4252508002) | Seattle, WA | Present | Prefers dynamic programming language in web development and web apps |
 |  [Illumio](https://www.illumio.com/career-openings?gh_jid=4417163002) | Sunnyvale, CA | Present | Rising seniors |
+|  [Stevens Capital Management](https://www.scm-lp.com/internships) | Radnor, PA | Present |

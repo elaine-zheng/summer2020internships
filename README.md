@@ -157,4 +157,5 @@ To contribute:
 |  [Stevens Capital Management](https://www.scm-lp.com/internships) | Radnor, PA | Present |
 |  [Squarespace](https://www.squarespace.com/careers/jobs/1852871?gh_src=afe793d31) | New York, NY | Present | Currently enrolled rising Senior graduating in December 2020 or May 2021 |
 |  [Petal](https://jobs.lever.co/petalcard/907525c3-7bd3-40d4-98a9-636304415e4f/apply) | New York, NY | Present |
-|  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present | 
+|  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
+|  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |

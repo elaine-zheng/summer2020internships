@@ -156,3 +156,4 @@ To contribute:
 |  [Illumio](https://www.illumio.com/career-openings?gh_jid=4417163002) | Sunnyvale, CA | Present | Rising seniors |
 |  [Stevens Capital Management](https://www.scm-lp.com/internships) | Radnor, PA | Present |
 |  [Squarespace](https://www.squarespace.com/careers/jobs/1852871?gh_src=afe793d31) | New York, NY | Present | Currently enrolled rising Senior graduating in December 2020 or May 2021 |
+|  [Petal](https://jobs.lever.co/petalcard/907525c3-7bd3-40d4-98a9-636304415e4f/apply) | New York, NY | Present |

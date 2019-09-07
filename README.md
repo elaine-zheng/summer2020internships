@@ -162,3 +162,4 @@ To contribute:
 |  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
 |  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
 |  [MongoDB](https://www.mongodb.com/careers/jobs/1855372?gh_src=0wcvpq1) | New York, NY | Present |
+|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present |

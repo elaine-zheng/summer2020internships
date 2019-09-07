@@ -107,7 +107,7 @@ To contribute:
 |  [NerdWallet](https://www.nerdwallet.com/careers/job/1799768) | San Francisco | Present
 |  [Lyft](https://boards.greenhouse.io/lyft/jobs/4358047002) | San Francisco, Seattle, New York | Present |
 |  [Valkyrie](https://www.valkyrietrading.com/careers/software-engineer-intern/) | Chicago, IL | Present | Expected graduation prior to June 2021
-|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required
+|  [CBRE Build](https://cbre.referrals.selectminds.com/jobs/software-engineer-intern-59481) | Dallas, TX; New York, NY | Present | Minimum 3.0 undergraduate GPA and knowledge of one or more general purpose programming languages: JavaScript, Python, Java, C, C# is required (Dallas and New York have seperate applications)
 |  [Sumo Logic](https://boards.greenhouse.io/sumologic/) | Redwood City, CA | Present | Analytics, Frontend, Backend. Requirements: Entering junior year of B.S or graduating in fall 2020 or spring 2021 and previous internship or full-time experience as a Software Engineer |
 |  [DeepMind](https://deepmind.com/careers/jobs/1829632) | London, GB | Present | Atleast two years of university study |
 |  [MemSQL](https://boards.greenhouse.io/memsql/jobs/1666552) | San Francisco, CA; Seattle, WA | Present |
@@ -154,3 +154,10 @@ To contribute:
 |  [datto](https://www.datto.com/careers/job-board/post/1604239) | Boston, Norwalk, Rochester | Present | Prefers PHP experience with object-oriented programming skills and MySQL |
 |  [Karat](https://boards.greenhouse.io/karat/jobs/4252508002) | Seattle, WA | Present | Prefers dynamic programming language in web development and web apps |
 |  [Illumio](https://www.illumio.com/career-openings?gh_jid=4417163002) | Sunnyvale, CA | Present | Rising seniors |
+|  [Stevens Capital Management](https://www.scm-lp.com/internships) | Radnor, PA | Present |
+|  [Squarespace](https://www.squarespace.com/careers/jobs/1852871?gh_src=afe793d31) | New York, NY | Present | Currently enrolled rising Senior graduating in December 2020 or May 2021 |
+|  [Petal](https://jobs.lever.co/petalcard/907525c3-7bd3-40d4-98a9-636304415e4f/apply) | New York, NY | Present |
+|  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
+|  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |
+|  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
+|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 | 

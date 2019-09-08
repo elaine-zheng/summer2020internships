@@ -137,7 +137,7 @@ To contribute:
 |  [Betterment](https://boards.greenhouse.io/betterment/jobs/1836744?gh_jid=1836744) | New York, NY | Present | An undergraduate degree in Computer Science or a related field (graduating Spring/Summer 2020) |
 |  [Tableau](https://tableau.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Software-Engineer-Intern_R0000234?source=LinkedIn) | Seattle, WA; Cambridge, MA; Palo Alto, CA; Austin, TX | Present |
 |  [Pivotal](https://boards.greenhouse.io/embed/job_app?token=1851404) | San Francisco, CA | Present |
-|  [Plaid](https://jobs.lever.co/plaid/4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Francisco, CA | Present |
+|  [Plaid](https://plaid.com/careers/openings/?department=Engineering&location=All%20locations) | San Francisco, CA; Salt Lake City, UT | Present |
 |  [Lyft Level 5](https://boards.greenhouse.io/embed/job_app?token=4417366002&gh_src=uwvxb4jc2) | Palo Alto, CA | Present |
 |  [Riot Games](https://www.riotgames.com/en/work-with-us/job/1839619?gh_src=vs7ga51) | SF Bay Area | Present | Familiarity with an object-oriented programming (OOP) language i.e. Java, C++ |
 |  [Pinterest](https://careers.pinterest.com/careers/university-0) | San Francisco, Seattle | Present | Pinterest Labs Intern, Data Science and SWE availible |

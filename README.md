@@ -169,5 +169,6 @@ To contribute:
 |  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present |
 |  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present |
 |  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present |
+|  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present |
 
 

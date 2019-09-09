@@ -172,4 +172,5 @@ To contribute:
 |  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present |
 |  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present |
 |  [Cambly](https://jobs.lever.co/cambly/21350d5c-8ef0-4284-8348-8d3218d24ecd) | San Francisco, CA | Present | Currently enrolled in a Computer Science degree program with at least 3 years of study completed. |
+|  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). | 
 

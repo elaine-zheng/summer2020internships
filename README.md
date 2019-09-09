@@ -94,7 +94,7 @@ To contribute:
 |  [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=Software%20Engineer%20Intern&parent_category=Corporate%2FOther) | Atlanta, Austin, Dallas | Present | Must be legally permitted to work in the United States |
 |  [RetailMeNot, Inc.](https://jobs.lever.co/retailmenot/13c1b9e0-d1f7-42a3-b60c-c7fe66e4f0f8/apply) | Austin, TX | Present | |
 |  [Sony Interactive Entertainment PlayStation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/1833253) | San Francisco, CA | Present | Seniors, must be proficiency with C#, JavaScript and experience with C++, Python |
-|  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Juniors+, prefers experience with Java, C++, or Python |
+|  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Graduation date between Dec 2020 and June 2021, prefers experience with Java, C++, or Python |
 |  [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2020_R002107-1) | Johnson City, Philadelphia, San Leandro, Scottsdale | Present | Min. GPA 3.25, prefers experience with C, C++, C#, Java, JavaScript, or Python |
 |  [Cvent](https://www.vistaequitypartners.com/our-firm/careers/?jobid=506363&location=1083) | Atlanta, GA | Present | Rising senior, Min. GPA 3.0, |
 |  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
@@ -127,12 +127,11 @@ To contribute:
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=599939) | Washington, DC | Recruitment on a rolling basis until the position is filled |
 |  [WillowTree](https://www.willowtreeapps.com/careers/jobs/4381004002/software-engineer-intern) | Charlottesville, VA | Present | Graduating in 2021 or 2022 |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs) | Various in US, Canada, China | Present |
-|  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |
+|  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |\
 |  [Benchling](https://www.benchling.com/careers/?gh_jid=1843932#detail) | San Francisco, CA | Present |
 |  [Garmin](https://garmin.taleo.net/careersection/garmin+career+section/jobsearch.ftl) | Various in US | Present | Seperate application for each location, part-time internships availible |
 |  [CTRL-Lab](https://jobs.lever.co/ctrl-labs/9218edb0-e31a-452c-8949-66d59e40423c) | New York, NY | Present |
 |  [BookBub](https://www.bookbub.com/positions?gh_jid=1809830) | Cambridge, MA | Present |
-|  [Quantcast](https://www.quantcast.com/careers/openings) | San Francisco | Present | Graduation date between Dec 2020 and June 2021 |
 |  [Stantec](https://stantec.jobs/burlington-ma/computer-science-engineering-intern/C8AE9D32CDAE4CC3A474DC47B041DCBF/job/) | Burlington, MA | Present |
 |  [Betterment](https://boards.greenhouse.io/betterment/jobs/1836744?gh_jid=1836744) | New York, NY | Present | An undergraduate degree in Computer Science or a related field (graduating Spring/Summer 2020) |
 |  [Tableau](https://tableau.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Software-Engineer-Intern_R0000234?source=LinkedIn) | Seattle, WA; Cambridge, MA; Palo Alto, CA; Austin, TX | Present |

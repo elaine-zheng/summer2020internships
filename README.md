@@ -170,5 +170,5 @@ To contribute:
 |  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present |
 |  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present |
 |  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present |
-
+|  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present |
 

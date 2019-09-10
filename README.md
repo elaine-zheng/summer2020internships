@@ -160,3 +160,4 @@ To contribute:
 |  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
 |  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 | 
 |  [Etsy](https://jobs.lever.co/etsy/44a07d1f-d198-4a2a-9c28-64d0ad7db531/apply) | New York, NY | Present | |
+|  [Kabbage](https://www.kabbage.com/company/careers/job/1861102) | Atlanta, GA | Present | Prefers experience with Angular, Javascript, Typescript, C#/C/C++, or Java |

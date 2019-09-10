@@ -166,3 +166,4 @@ To contribute:
 |  [Pocket Gems](https://boards.greenhouse.io/pocketgems/jobs/1849185?gh_src=%5Bu%270c25bb191%27%5D) | San Francisco, CA | Present | Looking for students going to U.S. universities, graduating in Winter 2020 or Spring 2021 |
 |  [CME Group](https://jobs.cmegroup.com/jobs/4575089-software-engineering-internship-summer-2020) | Chicago, IL | Present | Prefers experience with Java, Python, or C++ |
 |  [Hyland](https://careers-hyland.icims.com/jobs/5425/software-development-internship-(summer-2020)/job) | Westlake, OH | Present | Prefers experience with object oriented programming languages and Microsoft Office software products |
+|  [Bentley Systems](https://jobs.bentley.com/job/Austin-Software-Development-Intern-Summer-2020-TX-78730/589840200/) | Austin, TX | Present | Prefers experience developing Windows products using C, C++ or C# required |

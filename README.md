@@ -93,7 +93,7 @@ To contribute:
 |  [The Home Depot](https://careers.homedepot.com/job-search-results/?keyword=Software%20Engineer%20Intern&parent_category=Corporate%2FOther) | Atlanta, Austin, Dallas | Present | Must be legally permitted to work in the United States |
 |  [RetailMeNot, Inc.](https://jobs.lever.co/retailmenot/13c1b9e0-d1f7-42a3-b60c-c7fe66e4f0f8/apply) | Austin, TX | Present | |
 |  [Sony Interactive Entertainment PlayStation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/1833253) | San Francisco, CA | Present | Seniors, must be proficiency with C#, JavaScript and experience with C++, Python |
-|  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Juniors+, prefers experience with Java, C++, or Python |
+|  [Quantcast](https://www.quantcast.com/careers/openings/#department%3D__team%3D__location%3D__commitment%3DIntern) | San Francisco, Seattle | Present | Graduation date between Dec 2020 and June 2021, prefers experience with Java, C++, or Python |
 |  [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2020_R002107-1) | Johnson City, Philadelphia, San Leandro, Scottsdale | Present | Min. GPA 3.25, prefers experience with C, C++, C#, Java, JavaScript, or Python |
 |  [Cvent](https://www.vistaequitypartners.com/our-firm/careers/?jobid=506363&location=1083) | Atlanta, GA | Present | Rising senior, Min. GPA 3.0, |
 |  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
@@ -126,13 +126,11 @@ To contribute:
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=599939) | Washington, DC | Recruitment on a rolling basis until the position is filled |
 |  [WillowTree](https://www.willowtreeapps.com/careers/jobs/4381004002/software-engineer-intern) | Charlottesville, VA | Present | Graduating in 2021 or 2022 |
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs) | Various in US, Canada, China | Present |
-|  [Ambarella](https://chp.tbe.taleo.net/chp02/ats/careers/requisition.jsp?org=AMBARELLA2015&cws=1&rid=744) | Santa Clara, CA | Present | M.S. degree or M.S. Degree (in progress) in Computer Science, Computer Engineering, or related field; Excellent in C or C++ programming languages; Experience with Python scripting languages; Background in Processor Architecture Design or Modeling; Compiler Design and Implementation; Image Processing; Machine Learning; Embedded Firmware Development; Benchmarking or Performance Tuning. |
 |  [Confluent](https://www.confluent.io/careers) | Palo Alto, CA | Present | Frontend and Backend have seperate applications |\
 |  [Benchling](https://www.benchling.com/careers/?gh_jid=1843932#detail) | San Francisco, CA | Present |
 |  [Garmin](https://garmin.taleo.net/careersection/garmin+career+section/jobsearch.ftl) | Various in US | Present | Seperate application for each location, part-time internships availible |
 |  [CTRL-Lab](https://jobs.lever.co/ctrl-labs/9218edb0-e31a-452c-8949-66d59e40423c) | New York, NY | Present |
 |  [BookBub](https://www.bookbub.com/positions?gh_jid=1809830) | Cambridge, MA | Present |
-|  [Quantcast](https://www.quantcast.com/careers/openings) | San Francisco | Present | Graduation date between Dec 2020 and June 2021 |
 |  [Stantec](https://stantec.jobs/burlington-ma/computer-science-engineering-intern/C8AE9D32CDAE4CC3A474DC47B041DCBF/job/) | Burlington, MA | Present |
 |  [Betterment](https://boards.greenhouse.io/betterment/jobs/1836744?gh_jid=1836744) | New York, NY | Present | An undergraduate degree in Computer Science or a related field (graduating Spring/Summer 2020) |
 |  [Tableau](https://tableau.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Software-Engineer-Intern_R0000234?source=LinkedIn) | Seattle, WA; Cambridge, MA; Palo Alto, CA; Austin, TX | Present |
@@ -159,6 +157,17 @@ To contribute:
 |  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
 |  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |
 |  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
+|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 | 
+|  [Etsy](https://jobs.lever.co/etsy/44a07d1f-d198-4a2a-9c28-64d0ad7db531/apply) | New York, NY | Present | |
+|  [Kabbage](https://www.kabbage.com/company/careers/job/1861102) | Atlanta, GA | Present | Prefers experience with Angular, Javascript, Typescript, C#/C/C++, or Java |
+|  [Enfusion](https://hire.withgoogle.com/public/jobs/enfusionsystemscom/view/P_AAAAAACAAKFDmOJkch85P4) | Chicago, IL | Present | Minimum 6 months experience in JAVA is required |
+|  [C3.ai](https://boards.greenhouse.io/c3iot/jobs/4086849002) | Redwood, CA | Present | Prefers experience with JavaScript, Java, or other object-oriented programming language. |
+|  [Pocket Gems](https://boards.greenhouse.io/pocketgems/jobs/1849185?gh_src=%5Bu%270c25bb191%27%5D) | San Francisco, CA | Present | Looking for students going to U.S. universities, graduating in Winter 2020 or Spring 2021 |
+|  [CME Group](https://jobs.cmegroup.com/jobs/4575089-software-engineering-internship-summer-2020) | Chicago, IL | Present | Prefers experience with Java, Python, or C++ |
+|  [Hyland](https://careers-hyland.icims.com/jobs/5425/software-development-internship-(summer-2020)/job) | Westlake, OH | Present | Prefers experience with object oriented programming languages and Microsoft Office software products |
+|  [Bentley Systems](https://jobs.bentley.com/job/Austin-Software-Development-Intern-Summer-2020-TX-78730/589840200/) | Austin, TX | Present | Prefers experience developing Windows products using C, C++ or C# required |
+|  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4) | Santa Clara, CA; San Diego, CA; Kirkland, WA; Chicago, IL; San Francisco, CA | Present | Prefers experience with C++, Java, Perl, PHP, or Python; Ability to obtain and maintain work authorization in the country of employment in 2018 |
+|  [New Relic](http://jobs.jobvite.com/newrelic/job/oJHXafwh) | Phoenix, AZ; San Francisco, CA; Portland, OR | Present | Visa sponsorship is not available; Prefers experience with Java, C#, Ruby, Python, or Go as well as Javascript and frameworks |
 |  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
 |  [MongoDB](https://www.mongodb.com/careers/jobs/1855372?gh_src=0wcvpq1) | New York, NY | Present |
 |  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present |
@@ -175,4 +184,3 @@ To contribute:
 |  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). |
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
-

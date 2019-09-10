@@ -137,7 +137,7 @@ To contribute:
 |  [Betterment](https://boards.greenhouse.io/betterment/jobs/1836744?gh_jid=1836744) | New York, NY | Present | An undergraduate degree in Computer Science or a related field (graduating Spring/Summer 2020) |
 |  [Tableau](https://tableau.wd1.myworkdayjobs.com/en-US/External/job/Seattle-WA/Software-Engineer-Intern_R0000234?source=LinkedIn) | Seattle, WA; Cambridge, MA; Palo Alto, CA; Austin, TX | Present |
 |  [Pivotal](https://boards.greenhouse.io/embed/job_app?token=1851404) | San Francisco, CA | Present |
-|  [Plaid](https://jobs.lever.co/plaid/4e0c92e3-4c27-44a1-8d9d-be4fa18f987c) | San Francisco, CA | Present |
+|  [Plaid](https://plaid.com/careers/openings/?department=Engineering&location=All%20locations) | San Francisco, CA; Salt Lake City, UT | Present |
 |  [Lyft Level 5](https://boards.greenhouse.io/embed/job_app?token=4417366002&gh_src=uwvxb4jc2) | Palo Alto, CA | Present |
 |  [Riot Games](https://www.riotgames.com/en/work-with-us/job/1839619?gh_src=vs7ga51) | SF Bay Area | Present | Familiarity with an object-oriented programming (OOP) language i.e. Java, C++ |
 |  [Pinterest](https://careers.pinterest.com/careers/university-0) | San Francisco, Seattle | Present | Pinterest Labs Intern, Data Science and SWE availible |
@@ -149,7 +149,6 @@ To contribute:
 |  [Airbnb](https://careers.airbnb.com/positions/1815030/) | San Francisco, CA and Seattle, WA | Present | Prefers experience with Java, Scala, Ruby and/or Ruby on Rails, C++, SQL, or HTML/CSS and Javascript |
 |  [Flatiron](https://flatiron.com/careers/open-positions/1805778) | New York City, NY | Present | Juniors+ |
 |  [Kiva](https://boards.greenhouse.io/kivaorg/jobs/1845233) | San Francisco, CA and Portland, OR | Present | Freshmen and Sophomores ONLY |
-|  [Expel](https://expel.io/about/careers/?gh_jid=4019173002) | Herndon, VA | Present | Must be around DC-Metro area, prefers front-end experience |
 |  [SigOpt](https://jobs.lever.co/sigopt/141cec90-5ff0-46dc-8e99-02760d3e0f2d) | San Francisco, CA | Present | Prefers engineering internship or professional experience and strong programming ability it at least one language |
 |  [datto](https://www.datto.com/careers/job-board/post/1604239) | Boston, Norwalk, Rochester | Present | Prefers PHP experience with object-oriented programming skills and MySQL |
 |  [Karat](https://boards.greenhouse.io/karat/jobs/4252508002) | Seattle, WA | Present | Prefers dynamic programming language in web development and web apps |
@@ -160,4 +159,20 @@ To contribute:
 |  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
 |  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |
 |  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
-|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 | 
+|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
+|  [MongoDB](https://www.mongodb.com/careers/jobs/1855372?gh_src=0wcvpq1) | New York, NY | Present |
+|  [KeepTruckin](https://keeptruckin.com/careers) | San Francisco, CA | Present |
+|  [Tubular Labs](https://jobs.lever.co/tubularlabs/f3907864-0713-4fe0-b70d-4859b54d2d5e) | Mountain View, CA | Present | Currently pursuing a degree in ComputerScience or related technical field with a planned graduation date by summer of 2021. |
+|  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present |
+|  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present |
+|  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments |
+|  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present |
+|  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present |
+|  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present |
+|  [Oscar](https://www.hioscar.com/careers/1845429) | New York, NY | Present |
+|  [Uber](https://www.uber.com/global/en/careers/list/54737/) | Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California | Present |
+|  [Cambly](https://jobs.lever.co/cambly/21350d5c-8ef0-4284-8348-8d3218d24ecd) | San Francisco, CA | Present | Currently enrolled in a Computer Science degree program with at least 3 years of study completed. |
+|  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). |
+|  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
+|  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
+

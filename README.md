@@ -185,4 +185,6 @@ To contribute:
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
 |  [Vimeo](https://boards.greenhouse.io/vimeo/jobs/1851794) | New York, NY | Present | You are currently pursuing a BS or MS in Computer Science, Engineering, or a related technical discipline, with an expected graduation date of 2020 or 2021. |
+|  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |
+
 

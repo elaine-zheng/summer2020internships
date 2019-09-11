@@ -186,5 +186,5 @@ To contribute:
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
 |  [Vimeo](https://boards.greenhouse.io/vimeo/jobs/1851794) | New York, NY | Present | You are currently pursuing a BS or MS in Computer Science, Engineering, or a related technical discipline, with an expected graduation date of 2020 or 2021. |
 |  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |
-
+|  [Zillow](http://careers.zillowgroup.com/ShowJob/Id/355556/Software%20Development%20Engineer%20%20%20Intern) | Seattle, San Francisco | Present | 
 

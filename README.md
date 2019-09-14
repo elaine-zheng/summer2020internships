@@ -187,8 +187,9 @@ To contribute:
 |  [Vimeo](https://boards.greenhouse.io/vimeo/jobs/1851794) | New York, NY | Present | You are currently pursuing a BS or MS in Computer Science, Engineering, or a related technical discipline, with an expected graduation date of 2020 or 2021. |
 |  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |
 |  [Zillow](http://careers.zillowgroup.com/ShowJob/Id/355556/Software%20Development%20Engineer%20%20%20Intern) | Seattle, San Francisco | Present
-| [Lob](https://boards.greenhouse.io/lob/jobs/1862312) | San Francisco, CA | Present | Completion of your junior year of BS/BA (or first year of MS) in Computer Science or a related field by the start of Summer 2020 OR the completion of a coding bootcamp. |
-| [TripActions](https://tripactions.com/job-openings) | Palo Alto, CA; San Francisco, CA | Present | BS or MS in Computer Science or Computer Engineering Graduation Year: 2021 |
-| [Box](https://careers.box.com/job/1862637/Software-Engineering-Intern-Summer-2020) | Redwood City, CA | Present | Graduating between December 2020-June 2021 with a BA/BS, majoring in Computer Science or a related field. |
+|  [Lob](https://boards.greenhouse.io/lob/jobs/1862312) | San Francisco, CA | Present | Completion of your junior year of BS/BA (or first year of MS) in Computer Science or a related field by the start of Summer 2020 OR the completion of a coding bootcamp. |
+|  [TripActions](https://tripactions.com/job-openings) | Palo Alto, CA; San Francisco, CA | Present | BS or MS in Computer Science or Computer Engineering Graduation Year: 2021 |
+|  [Box](https://careers.box.com/job/1862637/Software-Engineering-Intern-Summer-2020) | Redwood City, CA | Present | Graduating between December 2020-June 2021 with a BA/BS, majoring in Computer Science or a related field. |
+|  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present |
 
 

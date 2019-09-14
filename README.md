@@ -188,5 +188,6 @@ To contribute:
 |  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |
 |  [Zillow](http://careers.zillowgroup.com/ShowJob/Id/355556/Software%20Development%20Engineer%20%20%20Intern) | Seattle, San Francisco | Present
 | [Lob](https://boards.greenhouse.io/lob/jobs/1862312) | San Francisco, CA | Present | Completion of your junior year of BS/BA (or first year of MS) in Computer Science or a related field by the start of Summer 2020 OR the completion of a coding bootcamp. |
+| [TripActions](https://tripactions.com/job-openings) | Palo Alto, CA; San Francisco, CA | Present | BS or MS in Computer Science or Computer Engineering Graduation Year: 2021 |
 
 

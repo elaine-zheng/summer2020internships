@@ -73,7 +73,7 @@ To contribute:
 |  [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/1793449) |San Francisco or Seattle |Present   | Plan to graduate in 2021 or 2022  |
 |  [Palantir](https://jobs.lever.co/palantir/d39b3432-8742-4df0-b97f-47ab4122cd05/apply)|New York   |Present   |   |
 |  [Five Rings Capital](https://jobs.jobvite.com/fiverings/jobs) |  New York, NY | Present | SWE, Quant
-|  [Google](https://careers.google.com/jobs/results/105147787001111238-bold-intern-summer-2020-united-states/) |  Ann Arbor, Austin, Boulder, Chicago, Mountain View, New York, Redwood City, San Bruno, San Francisco, Sunnyvale | ~~August 16th, 2019 (6pm PST)~~ Reopens September 16th, 2019 - November 11th 2019 | Juniors, BOLD program, Research Scientist
+|  [Google](https://buildyourfuture.withgoogle.com/internships/) |  Various locations across the world | Present | STEP, BOLD, Software Engineering, IT |
 |  [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207&gh_src=85sx4a1) |  Cambridge, MA | October 14, 2019 | Prefers web development experience
 |  [AllianceBernstein](https://careers-alliancebernstein.icims.com/jobs/6602/software-development-internship---technology-%26-operations-program/job) |  Nashville, TN | Present | Juniors
 |  [Jane Street](https://www.janestreet.com/join-jane-street/internships/) |  New York, London, Hong Kong | Present | Trading Interns, Business Development Interns, Engineering Interns, Research Interns |

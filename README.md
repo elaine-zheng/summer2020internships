@@ -192,5 +192,5 @@ To contribute:
 |  [Box](https://careers.box.com/job/1862637/Software-Engineering-Intern-Summer-2020) | Redwood City, CA | Present | Graduating between December 2020-June 2021 with a BA/BS, majoring in Computer Science or a related field. |
 |  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present |
 |  [Ironclad](https://jobs.lever.co/ironcladapp/7dc69333-8b40-40d9-b1c1-b8165471d88c) | San Francisco, CA | Present |
-
+|  [Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=1871040) | San Francisco, CA | Present | Currently pursuing a Bachelor's/Master’s degree in Computer Science (or equivalent) with expected graduation in 2021 |
 

@@ -184,7 +184,6 @@ To contribute:
 |  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). |
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
-|  [Slack](https://slack.com/intl/en-sg/careers/1852134/software-engineering-internship) | San Francisco, CA | Present |
 |  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. |
 | [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present |
 | [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward | 

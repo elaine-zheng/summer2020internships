@@ -184,6 +184,10 @@ To contribute:
 |  [Cogo Labs](https://boards.greenhouse.io/cogolabs) | Cambridge, MA | Present | You are a smart, collaborative Junior (2021 grad). |
 |  [Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-HQ/Internship---Multiple-Locations---Software-Development_R-46462) | Seattle, Quebec, Chicago, Austin, Denver, San Francisco | Present | Currently enrolled in a 4-year university graduating December 2020 or Spring 2021 |
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
+|  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. |
+| [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present |
+| [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward | 
+| [Tesla](https://www.tesla.com/careers/search#/?keyword=Intern&department=1) | Multiple Cities | Present | 
 |  [Kleiner Perkins Fellows Program](https://boards.greenhouse.io/2020kpfellows) | Bay Area, CA | Present | Product: Graduating in Fall 2019 or Spring 2020 / Engineering: Graduating after Spring 2020 / Design: Graduating by Spring 2020 |
 |  [Vimeo](https://boards.greenhouse.io/vimeo/jobs/1851794) | New York, NY | Present | You are currently pursuing a BS or MS in Computer Science, Engineering, or a related technical discipline, with an expected graduation date of 2020 or 2021. |
 |  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |

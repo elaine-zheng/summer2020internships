@@ -203,3 +203,7 @@ To contribute:
 |  [Fivestars](https://boards.greenhouse.io/fivestars/jobs/1874507) | San Francisco, CA | Present |
 |  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | 
+|  [Hulu](https://www.hulu.com/jobs/positions/ozhuafw4) | Santa Monica, CA, Seattle, WA | Present | 
+|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839157) | Boston, MA, New York, NY | Present | 
+|  [Tinder](https://www.gotinder.com/jobs/apply?gh_jid=1866819) | Los Angeles, San Francisco, Palo Alto, CA | Present | 
+|  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present | 

@@ -212,3 +212,4 @@ To contribute:
 |  [D.E. Shaw](https://www.deshaw.com/careers/3840) | New York, NY | Present |
 |  [Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=1886472) | Redwood City, CA | Present |
 |  [Strava](https://boards.greenhouse.io/strava/jobs/1892381) | San Francisco, CA | Present | Rising Senior (2021 grad) or new grad (2020), requires cover letter |
+|  [Reddit](https://boards.greenhouse.io/reddit/jobs/1861780) | San Francisco, CA | Present | A rising senior actively working towards a Bachelor’s degree in CS or a related field; Graduating between December 2020 and Summer 2021; Able to program your way out of a paper bag; Requires Cover Letter |

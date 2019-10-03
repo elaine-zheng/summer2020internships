@@ -210,3 +210,4 @@ To contribute:
 |  [Handshake](https://www.joinhandshake.com/join-us/) | Denver, CO; San Francisco, CA | Present |
 |  [Poshmark](https://poshmark.com/careers) | Redwood City, CA | Present |
 |  [D.E. Shaw](https://www.deshaw.com/careers/3840) | New York, NY | Present |
+|  [Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=1886472) | Redwood City, CA | Present | 

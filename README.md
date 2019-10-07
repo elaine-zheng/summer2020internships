@@ -10,7 +10,7 @@ To contribute:
  1. Fork repository
  2. Edit README.md *(I used the [StackEdit Markdown Editor](https://stackedit.io/app#))*
  3. Open a pull request!
- 
+
  **Note**: Locations may potentially span globally.
 
 ## The List
@@ -18,6 +18,7 @@ To contribute:
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
+|  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
 |  [Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/) |  US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield | Present  |   |
 |  [JP Morgan Chase](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |  Asia: Singapore, Europe, Middle East, US: IL, OH, TX, NY, DE, TX, CA, WA, FL| Present  |  Juniors+, All JP Morgan Chase positions open including IB/Quant/Data Analytics |
@@ -57,7 +58,7 @@ To contribute:
 |  [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?t=edd9906d1) | Provo, Seattle | Present |
 |  [Databricks](https://boards.greenhouse.io/databricks/jobs/4374189002?gh_src=62a881d62) | San Francisco | Present | 2020, 2021 graduate working on a BS/MS or PhD degree in Computer Science, Engineering, or a related subject |
 |  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
-|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present 
+|  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present
 |  [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982) | New York | Present
 |  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago | Present
 |  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
@@ -99,7 +100,7 @@ To contribute:
 |  [Postmates](https://boards.greenhouse.io/postmates/jobs/1134685) | San Francisco | Present
 |  [Nuro](https://nuro.ai/careersitem?gh_jid=1785972) | Mountain View | Present | You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc. |
 |  [Invoca](https://jobs.smartrecruiters.com/Invoca/743999678138901-software-engineer-intern) | Santa Barbara | Present |
-|  [Taboola](https://careers.taboola.com/job/1786167?gh_jid=1786167&gh_src=u6pd1t&t=1566291622) | Los Angeles | Present | 
+|  [Taboola](https://careers.taboola.com/job/1786167?gh_jid=1786167&gh_src=u6pd1t&t=1566291622) | Los Angeles | Present |
 |  [WeRide.ai](https://boards.greenhouse.io/jingchicorp/jobs/1448478?gh_src=c6dae5a61) | San Jose, CA | Present | BS/MS/PhD degree in Robotics, Computer Science or equivalent practical experience. Experience in data structures and advanced algorithms. Experience programming in C++. Graduating in Dec 2019 or May 2020 |
 |  [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=1550728) | Chicago | Present |
 |  [Platform9](https://hire.withgoogle.com/public/jobs/platform9com/view/P_AAAAAADAAF5OEdk-bHtkWY) | Sunnyvale, CA | Present | Coursework in one or more areas: operating systems, distributed systems, networks, security or user interface design, Knowledge of Linux/Unix Systems, Programming proficiency in any one language: python, javascript, C/C++, java, golang, GPA 3.5 and above
@@ -117,7 +118,7 @@ To contribute:
 |  [Lime](https://jobs.lever.co/limebike/abbcff74-b22f-4a84-84d6-1bc3919eabb1) | San Francisco | Present
 |  [Lucid Software](https://www.golucid.co/careers/c689ce29-c74a-48d5-854f-f9dbc82a350e/?team=Internships) | Salt Lake City, UT | Present | Must be pursuing technical degree. |
 |  [Coursera](https://jobs.lever.co/coursera/6dc86ebb-ac85-4e63-ab61-25aaee9ec45d) | Mountain View | Present | We are looking for rising juniors and seniors for our summer internship programs. The programs are highly competitive, so apply as soon as you know you are available. |
-|  [Asana](https://asana.com/jobs/university-recruiting#jobs-listings) | San Francisco, New York | Present 
+|  [Asana](https://asana.com/jobs/university-recruiting#jobs-listings) | San Francisco, New York | Present
 |  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field
 |  [Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | San Francisco, Denver, Irvine, Redwood City | Present |
 |  [Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Intern---Summer-2020----Seattle--WA---San-Francisco--CA---Frisco--TX_23752) | San Francisco, Seattle | Present |
@@ -157,7 +158,7 @@ To contribute:
 |  [InterSystems](https://jobs-intersystems.icims.com/jobs/5277/intersystems-summer-internship-2020/job) | Cambridge, Boston | Present |
 |  [Okta](https://www.okta.com/company/careers/) | San Francisco, CA Bellevue, WA San Jose, CA, Toronto, CA | Present | Ability to program in at least one OO programming language (e.g. Java, JavaScript C#, C++) |
 |  [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/Innovations---Software-Developer---2020-Summer-Analyst_9144) | New York, NY | Present | Anticipated graduation date: Fall 2020 – Spring 2021 |
-|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 | 
+|  [TripAdvisor](https://careers.tripadvisor.com/c/campus-jobs) | El Segundo, CA; Needham, MA; Ottawa, ON | Present | Graduating in 2020, 2021 |
 |  [Etsy](https://jobs.lever.co/etsy/44a07d1f-d198-4a2a-9c28-64d0ad7db531/apply) | New York, NY | Present | |
 |  [Kabbage](https://www.kabbage.com/company/careers/job/1861102) | Atlanta, GA | Present | Prefers experience with Angular, Javascript, Typescript, C#/C/C++, or Java |
 |  [Enfusion](https://hire.withgoogle.com/public/jobs/enfusionsystemscom/view/P_AAAAAACAAKFDmOJkch85P4) | Chicago, IL | Present | Minimum 6 months experience in JAVA is required |
@@ -186,8 +187,8 @@ To contribute:
 |  [Cruise](https://www.getcruise.com/careers/university) | San Francisco, CA | Present |
 |  [GitHub](https://github.com/about/careers#internships) | San Francisco, CA | Present | You must be returning to school the Fall after your internship (Fall 2020). Your internship will be 10 weeks from June 8th, 2020 to August 14th, 2020. We will accommodate quarter system intern starts. |
 | [Roblox](https://corp.roblox.com/careers/listing/?gh_jid=1860562) | San Mateo, CA | Present |
-| [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward | 
-| [Tesla](https://www.tesla.com/careers/search#/?keyword=Intern&department=1) | Multiple Cities | Present | 
+| [Mozilla](https://careers.mozilla.org/listings/?position_type=Internteam=Engineering) | Berlin, Mountain View, San Francisco, Toronto | Present | Must be graduating December 2020 and onward |
+| [Tesla](https://www.tesla.com/careers/search#/?keyword=Intern&department=1) | Multiple Cities | Present |
 |  [Kleiner Perkins Fellows Program](https://boards.greenhouse.io/2020kpfellows) | Bay Area, CA | Present | Product: Graduating in Fall 2019 or Spring 2020 / Engineering: Graduating after Spring 2020 / Design: Graduating by Spring 2020 |
 |  [Vimeo](https://boards.greenhouse.io/vimeo/jobs/1851794) | New York, NY | Present | You are currently pursuing a BS or MS in Computer Science, Engineering, or a related technical discipline, with an expected graduation date of 2020 or 2021. |
 |  [Slack](https://slack.com/careers/university-recruiting#openings) | San Francisco, CA | Present |

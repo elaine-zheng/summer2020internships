@@ -214,3 +214,5 @@ To contribute:
 |  [Strava](https://boards.greenhouse.io/strava/jobs/1892381) | San Francisco, CA | Present | Rising Senior (2021 grad) or new grad (2020), requires cover letter |
 |  [Reddit](https://boards.greenhouse.io/reddit/jobs/1861780) | San Francisco, CA | Present | A rising senior actively working towards a Bachelor’s degree in CS or a related field; Graduating between December 2020 and Summer 2021; Able to program your way out of a paper bag; Requires Cover Letter |
 |  [Cora](https://jobs.lever.co/cora) | Mountain View, CA | Present |
+|  [The Washington Post](https://hosted-washpost.submissionplatform.com/sub/hosted/56427121208965c923528efd) | Washington D.C. | Present |
+|  [Southwest Airlines](https://careers.southwestair.com/job/31163/Technology-Software-Engineer-Intern-Summer-2020) | Dallas, TX | Present |

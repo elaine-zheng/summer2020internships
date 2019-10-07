@@ -205,6 +205,10 @@ To contribute:
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
 |  [SugarCRM](https://jobs.jobvite.com/sugarcrm/job/oDOUafwf) | San Francisco, CA | Present |
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | 
+|  [Hulu](https://www.hulu.com/jobs/positions/ozhuafw4) | Santa Monica, CA, Seattle, WA | Present | 
+|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839157) | Boston, MA, New York, NY | Present | 
+|  [Tinder](https://www.gotinder.com/jobs/apply?gh_jid=1866819) | Los Angeles, San Francisco, Palo Alto, CA | Present | 
+|  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present | 
 |  [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-indianapolis-in-usa-8) | Indianapolis, IN | Present | 
 | [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix| 
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |

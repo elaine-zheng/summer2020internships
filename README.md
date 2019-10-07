@@ -204,4 +204,17 @@ To contribute:
 |  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | 
 | [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix| 
-
+|  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
+|  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 |
+|  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students. |
+|  [The Teamworthy Fellowship](https://www.teamworthy.com/teamworthy-fellowship) | New York, Austin, Boston, Chicago, DC, Denver, Los Angeles, New York City, Salt Lake City, San Francisco, and Saskatoon (Canada) | We accept applications on a rolling basis until May 1, 2020. |
+|  [Hacker Fellows](https://www.hackerfellows.com/) | Ann Arbor, Michigan | Present |
+|  [Handshake](https://www.joinhandshake.com/join-us/) | Denver, CO; San Francisco, CA | Present |
+|  [Poshmark](https://poshmark.com/careers) | Redwood City, CA | Present |
+|  [D.E. Shaw](https://www.deshaw.com/careers/3840) | New York, NY | Present |
+|  [Chan Zuckerberg Initiative](https://boards.greenhouse.io/embed/job_app?token=1886472) | Redwood City, CA | Present |
+|  [Strava](https://boards.greenhouse.io/strava/jobs/1892381) | San Francisco, CA | Present | Rising Senior (2021 grad) or new grad (2020), requires cover letter |
+|  [Reddit](https://boards.greenhouse.io/reddit/jobs/1861780) | San Francisco, CA | Present | A rising senior actively working towards a Bachelor’s degree in CS or a related field; Graduating between December 2020 and Summer 2021; Able to program your way out of a paper bag; Requires Cover Letter |
+|  [Cora](https://jobs.lever.co/cora) | Mountain View, CA | Present |
+|  [The Washington Post](https://hosted-washpost.submissionplatform.com/sub/hosted/56427121208965c923528efd) | Washington D.C. | Present |
+|  [Southwest Airlines](https://careers.southwestair.com/job/31163/Technology-Software-Engineer-Intern-Summer-2020) | Dallas, TX | Present |

@@ -1,4 +1,4 @@
-
+﻿
 # Summer 2020 Internships
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
 
@@ -202,6 +202,8 @@ To contribute:
 |  [Convoy](https://jobs.lever.co/convoy/63403442-d175-4f25-9521-d8ee4121433b) | Seattle, WA | Present | Currently working toward a degree in Computer Science, with a graduation date in 2021. |
 |  [Fivestars](https://boards.greenhouse.io/fivestars/jobs/1874507) | San Francisco, CA | Present |
 |  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |
+|  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | 
+| [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix| 
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
 |  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 |
 |  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students. |

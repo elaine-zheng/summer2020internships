@@ -18,6 +18,7 @@ To contribute:
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
+|  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
 |  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
 |  [Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/) |  US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield | Present  |   |
@@ -206,14 +207,14 @@ To contribute:
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
 | [WPEngine](https://wpengine.careers/internships/) | Austin, TX | Present (Fall and Spring period) |
 |  [SugarCRM](https://jobs.jobvite.com/sugarcrm/job/oDOUafwf) | San Francisco, CA | Present |
-|  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present | 
-| [Mark43](https://www.mark43.com/list-jobs/1335587/?gh_jid=1335587) | New York, NY | Present | 
-|  [Hulu](https://www.hulu.com/jobs/positions/ozhuafw4) | Santa Monica, CA, Seattle, WA | Present | 
-|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839157) | Boston, MA, New York, NY | Present | 
-|  [Tinder](https://www.gotinder.com/jobs/apply?gh_jid=1866819) | Los Angeles, San Francisco, Palo Alto, CA | Present | 
-|  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present | 
-|  [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-indianapolis-in-usa-8) | Indianapolis, IN | Present | 
-| [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix| 
+|  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
+| [Mark43](https://www.mark43.com/list-jobs/1335587/?gh_jid=1335587) | New York, NY | Present |
+|  [Hulu](https://www.hulu.com/jobs/positions/ozhuafw4) | Santa Monica, CA, Seattle, WA | Present |
+|  [Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1839157) | Boston, MA, New York, NY | Present |
+|  [Tinder](https://www.gotinder.com/jobs/apply?gh_jid=1866819) | Los Angeles, San Francisco, Palo Alto, CA | Present |
+|  [Braze](https://boards.greenhouse.io/braze/jobs/840086?gh_jid=840086) | New York, NY | Present |
+|  [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-indianapolis-in-usa-8) | Indianapolis, IN | Present |
+| [PDT Partners](https://jobs.pdtpartners.com/?gh_jid=1372119) | New York, NY|Present| SWE; Knowledge of an OO language such as: C++, C#, Java; Scripting in Python; Knowledge of databases - SQL, Cassandra, PostgreSQL; Experience working with Unix|
 |  [Checkr](https://boards.greenhouse.io/embed/job_app?token=1870995) | San Francisco, CA | Present |
 |  [8VC Fellowship](https://www.8vcfellowship.com/) | San Francisco, CA | Due November 30 |
 |  [Bessemer Fellowship](https://www.bvp.com/bessemer-fellows) | San Francisco, CA | Due January 31 | Applications are accepted for third year undergraduate students. |

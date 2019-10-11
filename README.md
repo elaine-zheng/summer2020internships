@@ -229,6 +229,7 @@ To contribute:
 |  [Cora](https://jobs.lever.co/cora) | Mountain View, CA | Present |
 |  [The Washington Post](https://hosted-washpost.submissionplatform.com/sub/hosted/56427121208965c923528efd) | Washington D.C. | Present |
 |  [Southwest Airlines](https://careers.southwestair.com/job/31163/Technology-Software-Engineer-Intern-Summer-2020) | Dallas, TX | Present |
+|  [Neeva](https://jobs.lever.co/neeva/93e622dc-0cd6-4bfe-91f0-f67aedb97e53) | Mountain View, CA | Present |
 |  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present |
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |

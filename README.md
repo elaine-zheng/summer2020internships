@@ -239,3 +239,4 @@ To contribute:
 |  [BrainTree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |
 |  [ByteDance](https://job.bytedance.com/en/job?functions=&locations=&position=&keyword=intern&offset=0) | Various across the world | Present |
 |  [Intuit](https://uscareers-intuit.icims.com/jobs/search?ss=1&searchKeyword=intern) | Mountain View, San Diego | Present
+|  [Lytx](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Software-Engineer-Intern_R-633) | San Diego | Present |

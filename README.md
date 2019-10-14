@@ -243,3 +243,4 @@ To contribute:
 |  [Podium](https://hire.withgoogle.com/public/jobs/podiumcom/view/P_AAAAAACAAEnJeSNEIEUO0f) | Lehi, UT | Present |
 |  [Propeller](https://boards.greenhouse.io/propellerhealth/jobs/50761?gh_src=o7hkam) | Madison, San Francisco | Present |
 |  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
+|  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |

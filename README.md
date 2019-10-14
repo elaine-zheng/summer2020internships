@@ -245,3 +245,4 @@ To contribute:
 |  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
 |  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
 |  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
+|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present

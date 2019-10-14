@@ -244,3 +244,4 @@ To contribute:
 |  [Propeller](https://boards.greenhouse.io/propellerhealth/jobs/50761?gh_src=o7hkam) | Madison, San Francisco | Present |
 |  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
 |  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
+|  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present

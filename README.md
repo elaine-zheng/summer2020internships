@@ -237,3 +237,4 @@ To contribute:
 |  [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/) | San Franciso, CA | Present |
 |  [Relativity](https://jobs.lever.co/relativity/d17dcf2a-eebd-40de-b715-0a0e9db8bc87) | Chicago, IL | Present |
 |  [BrainTree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |
+|  [ByteDance](https://job.bytedance.com/en/job?functions=&locations=&position=&keyword=intern&offset=0) | Various across the world | Present |

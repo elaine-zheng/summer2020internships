@@ -19,6 +19,7 @@ To contribute:
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
 |  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
+|  [Esri](https://www.esri.com/en-us/about/careers/job-detail?jobID=11338&mode=job&iis=Job%2BBoard&iisn=LinkedIn) |  Multiple Locations |  Present | C++, C#, Python, Java, JavaScript, TypeScript, HTML5, iOS, Android or Windows mobile technology skills  |
 |  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
 |  [Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/) |  US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield | Present  |   |

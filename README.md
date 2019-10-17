@@ -235,3 +235,16 @@ To contribute:
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |
 |[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+|  [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/) | San Franciso, CA | Present |
+|  [Relativity](https://jobs.lever.co/relativity/d17dcf2a-eebd-40de-b715-0a0e9db8bc87) | Chicago, IL | Present |
+|  [BrainTree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |
+|  [ByteDance](https://job.bytedance.com/en/job?functions=&locations=&position=&keyword=intern&offset=0) | Various across the world | Present |
+|  [Intuit](https://uscareers-intuit.icims.com/jobs/search?ss=1&searchKeyword=intern) | Mountain View, San Diego | Present
+|  [Lytx](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Software-Engineer-Intern_R-633) | San Diego | Present |
+|  [Podium](https://hire.withgoogle.com/public/jobs/podiumcom/view/P_AAAAAACAAEnJeSNEIEUO0f) | Lehi, UT | Present |
+|  [Propeller](https://boards.greenhouse.io/propellerhealth/jobs/50761?gh_src=o7hkam) | Madison, San Francisco | Present |
+|  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
+|  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
+|  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
+|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
+|  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present

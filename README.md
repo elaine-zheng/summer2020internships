@@ -200,7 +200,7 @@ To contribute:
 |  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present |
 |  [Ironclad](https://jobs.lever.co/ironcladapp/7dc69333-8b40-40d9-b1c1-b8165471d88c) | San Francisco, CA | Present |
 |  [Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=1871040) | San Francisco, CA | Present | Currently pursuing a Bachelor's/Master’s degree in Computer Science (or equivalent) with expected graduation in 2021 |
-|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Present | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. |
+|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Expired | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. |
 |  [Convoy](https://jobs.lever.co/convoy/63403442-d175-4f25-9521-d8ee4121433b) | Seattle, WA | Present | Currently working toward a degree in Computer Science, with a graduation date in 2021. |
 |  [Fivestars](https://boards.greenhouse.io/fivestars/jobs/1874507) | San Francisco, CA | Present |
 |  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |

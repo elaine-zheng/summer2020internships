@@ -19,6 +19,7 @@ To contribute:
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
 |  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
+|  [Esri](https://www.esri.com/en-us/about/careers/job-detail?jobID=11338&mode=job&iis=Job%2BBoard&iisn=LinkedIn) |  Multiple Locations |  Present | C++, C#, Python, Java, JavaScript, TypeScript, HTML5, iOS, Android or Windows mobile technology skills  |
 |  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
 |  [Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/) |  US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield | Present  |   |
@@ -200,7 +201,7 @@ To contribute:
 |  [Kensho](https://jobs.lever.co/kensho/2c82a1f0-3f96-47e1-a785-cfd2acdbed7a) | Cambridge, MA | Present |
 |  [Ironclad](https://jobs.lever.co/ironcladapp/7dc69333-8b40-40d9-b1c1-b8165471d88c) | San Francisco, CA | Present |
 |  [Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=1871040) | San Francisco, CA | Present | Currently pursuing a Bachelor's/Master’s degree in Computer Science (or equivalent) with expected graduation in 2021 |
-|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Present | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. |
+|  [Square](https://jobs.smartrecruiters.com/Square/743999695283477-software-engineer-intern) | San Francisco, CA | Expired | Programming experience in one or more object-oriented languages, including: C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python. |
 |  [Convoy](https://jobs.lever.co/convoy/63403442-d175-4f25-9521-d8ee4121433b) | Seattle, WA | Present | Currently working toward a degree in Computer Science, with a graduation date in 2021. |
 |  [Fivestars](https://boards.greenhouse.io/fivestars/jobs/1874507) | San Francisco, CA | Present |
 |  [Transfix](https://jobs.lever.co/transfix/c9c05b4f-18f7-4ba3-9361-bacd89192589) | New York, NY | Present | Must be a Sophomore or a Junior Competency in algorithms |
@@ -233,5 +234,18 @@ To contribute:
 |  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present |
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | 
-|[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
-|[Red Hat](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505) |Various, remote available |Present|Various positions from DevOps to SWE to UX, does not provide housing stipend |
+|  [esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+|  [Red Hat](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505) |Various, remote available |Present|Various positions from DevOps to SWE to UX, does not provide housing stipend |
+|  [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/) | San Franciso, CA | Present |
+|  [Relativity](https://jobs.lever.co/relativity/d17dcf2a-eebd-40de-b715-0a0e9db8bc87) | Chicago, IL | Present |
+|  [BrainTree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |
+|  [ByteDance](https://job.bytedance.com/en/job?functions=&locations=&position=&keyword=intern&offset=0) | Various across the world | Present |
+|  [Intuit](https://uscareers-intuit.icims.com/jobs/search?ss=1&searchKeyword=intern) | Mountain View, San Diego | Present
+|  [Lytx](https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Office---San-Diego-CA/Software-Engineer-Intern_R-633) | San Diego | Present |
+|  [Podium](https://hire.withgoogle.com/public/jobs/podiumcom/view/P_AAAAAACAAEnJeSNEIEUO0f) | Lehi, UT | Present |
+|  [Propeller](https://boards.greenhouse.io/propellerhealth/jobs/50761?gh_src=o7hkam) | Madison, San Francisco | Present |
+|  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
+|  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
+|  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
+|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
+|  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present

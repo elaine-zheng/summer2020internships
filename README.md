@@ -233,8 +233,9 @@ To contribute:
 |  [Neeva](https://jobs.lever.co/neeva/93e622dc-0cd6-4bfe-91f0-f67aedb97e53) | Mountain View, CA | Present |
 |  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present |
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
-| [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |
-|[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+| [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | 
+|  [esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+|  [Red Hat](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505) |Various, remote available |Present|Various positions from DevOps to SWE to UX, does not provide housing stipend |
 |  [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/) | San Franciso, CA | Present |
 |  [Relativity](https://jobs.lever.co/relativity/d17dcf2a-eebd-40de-b715-0a0e9db8bc87) | Chicago, IL | Present |
 |  [BrainTree](https://boards.greenhouse.io/embed/job_app?token=1316736&gh_src=36td7o) | Chicago, San Francisco | Present |

@@ -233,6 +233,9 @@ To contribute:
 |  [Neeva](https://jobs.lever.co/neeva/93e622dc-0cd6-4bfe-91f0-f67aedb97e53) | Mountain View, CA | Present |
 |  [Spotify](https://www.spotifyjobs.com/students/) | Boston and New York | Present |
 | [TuSimple](https://www.tusimple.com/careers/#jobs) | San Diego, CA| Present| |
+| [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | |
+|[esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
+|[New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz) | New York | Present | |
 | [axs](https://solutions.axs.com/axs-careers-apply/?jid=4461510002) | San Francisco, CA | Present | 
 |  [esri](https://www.esri.com/en-us/about/careers/job-detail?req=11338&title=Internships%20-%20Software%20Development%20and%20Engineering%202020) | |Due Time: Dec 31| |
 |  [Red Hat](https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&searchCategory=17505) |Various, remote available |Present|Various positions from DevOps to SWE to UX, does not provide housing stipend |

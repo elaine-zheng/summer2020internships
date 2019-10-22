@@ -5,6 +5,7 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
 Summer 2019 Tech Internships!
 > Positions are geared towards Computer Science majors who may have intersectional interests such as Design, > Finance, Research, etc. All positions are open to anyone enrolled in a Bachelor's degree program.
+> Utilize the Python Script to recieve an outputted Excel-Friendly version
 
 To contribute:
  1. Fork repository

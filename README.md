@@ -252,3 +252,4 @@ To contribute:
 |  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
 |  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
 |  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present
+|  [RBC](https://jobs.rbc.com/ca/en/amplify) | Toronto, ON | Present | Graduating in 2020, 2021 |

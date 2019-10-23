@@ -33,7 +33,6 @@ To contribute:
 |  [Microsoft](https://careers.microsoft.com/us/en/) | Global | Present  |   |
 |  [Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=Internships-STDNT-INTRN) | Santa Clara Valley (Cupertino), California (Mainly) | Present  |  SWE, Hardware, UI/UX, Sales, ML |
 |  [SAS](https://careers-sas.icims.com/jobs/18311/2020-autism-spectrum-summer-internship-program-%28expression-of-interest%29/job?hub=9&mode=job&iis=SocialMedia&iisn=LinkedIn&mobile=false&width=1137&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Santa Clara Valley (Cupertino), California (Mainly) | Present  | Pipeline for students with Autism |
-|  [NBCUniversal](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25354&siteid=5108&jobId=442107&codes=LinkedIn#jobDetails=442107_5108) | Tokyo or Stamford, CT | Present |For Tokyo 2020 Olympics; No sponsorship; Sophomores+
 |  [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x08859m) |  Chicago |  Present | Juniors+; No sponsorship |
 |  [Collins Aerospace](https://utc-disability.jobs/cedar-rapids-ia/software-engineering-intern-summer-2020/C20735DD166648E4991FC2872EF732CB/job) | Cedar Rapids, IA | Present | Must be capable of obtaining a U.S. Department of Defense (DoD) Security Clearance, US Citizenship is required
 |  [Matco Tools](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=MAT001868&src=[u%27JB-10138%27%2C+u%27JB-10138%27]) | Stow, OH | Present | Juniors+, prefers Java programming skills

@@ -92,7 +92,7 @@ To contribute:
 |  [Matician](https://hire.withgoogle.com/public/jobs/maticiancom) | Palo Alto | Present |
 |  [Knowt](https://www.getknowt.com/team/#apply) | Remote | Present | Low compensation work at an early stage startup
 |  [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcategory=internship&orderby=-date) | Austin, TX; Timonium, MD; San Francisco, CA; San Jose, CA; Scottsdale, AZ; Conshohocken, PA; New York, NY;| Present |
-|  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, Computer Engineering or similar, with 3.7 GPA & above. |
+|  [Appian](https://www.appian.com/careers/search/job/?gh_jid=1770583) | Tysons, Virginia | Present | Undergraduate student pursuing B.S. in Computer Science, CoGrmputer Engineering or similar, with 3.7 GPA & above. |
 |  [Applied Intuition](https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAOIEfFoeqoZTq) | Sunnyvale, CA | Present | |
 |  [Wolverine Trading](https://www.wolve.com/careers) | Chicago, IL | Present | Juniors+, sponsorship is not available, multiple positions: SWE, Data, and Quant |
 |  [Quorum](https://boards.greenhouse.io/quorum/jobs/599939?gh_jid=[u%27599939%27]) | Washington, DC | Present | |
@@ -180,7 +180,7 @@ To contribute:
 |  [Tubular Labs](https://jobs.lever.co/tubularlabs/f3907864-0713-4fe0-b70d-4859b54d2d5e) | Mountain View, CA | Present | Currently pursuing a degree in ComputerScience or related technical field with a planned graduation date by summer of 2021. |
 |  [Rubrik](https://www.rubrik.com/company/careers/university-talent/jobs/software-engineering-internship-783507/) | Palo Alto, CA | Present |
 |  [Pure Storage](https://boards.greenhouse.io/purestorage/jobs/1852570) | Mountain View, CA | Present |
-|  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments |
+|  [GrammaTech](https://careers-grammatech.icims.com/jobs/1128/software-engineer-intern-%28research%29---summer-2020/job) | Ithaca, NY | Present | Currently enrolled in a BS< MS, or PhD in Computer Science, Excellent programming skills (C++, C, Python) in Linux or Windows environments. Visa sponsorship not available. |
 |  [Huobi](https://jobs.lever.co/huobi/c454e383-9302-4bec-88c0-7a9f749cb5f9) | Sunnyvale, CA | Present |
 |  [Honey](https://www.joinhoney.com/careers/internships) | Los Angeles, CA | Present |
 |  [LinkedIn](https://careers.linkedin.com/students/Internships/Technical) | San Francisco, CA | Present |

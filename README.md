@@ -245,3 +245,4 @@ To contribute:
 |  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/owego/software-engineering-intern/694/13093474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Owego, NY | Present | Must have at least a 3.0 GPA, Must be able to obtain an interim secret clearance prior to start, and must be able to obtain and maintain a security clearance
 |  [Twine Labs](https://boards.greenhouse.io/twinelabs/jobs/4471460002) | New York, NY | Present |
 |  [Pandora](https://recruiting.adp.com/srccar/public/RTI.home?c=1147611) | Peachtree, GA; Oakland, CA | Present |
+|  [Audible](https://www.amazon.jobs/en/jobs/941377/software-development-engineer-internship) | New York, NY; Newark, NJ; New Jersey, US | Present |

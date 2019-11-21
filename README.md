@@ -24,7 +24,6 @@ To contribute:
 |  [T-Mobile](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobid=601713&jobLocation=Bellevue,%2BWashington#jobDetails=601713_5149) |  Bellevue, Washington |  Present |
 |  [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16121-edg-intern-ms-and-phd-computer-science-majors?job_type_id[]=1755&) |  US-MA-Natick |  Present |
 |  [Red hat](https://us-redhat.icims.com/jobs/72990/software-engineering-internship---cloud-security-technologies/job?hub=7&mobile=false&width=1011&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-420) |  New York |  Present | Golang, Python programming skills  |
-|  [Citrix](https://jobs.citrix.com/job/CITRA0058R18394/Software-Engineer-Intern-Summer-2020) |  Ft Lauderdale, Florida |  Present | Min. GPA 3.3 | Prefer experience with front-end, JavaScript, Angular, React, and Web services  |
 |  [Esri](https://www.esri.com/en-us/about/careers/job-detail?jobID=11338&mode=job&iis=Job%2BBoard&iisn=LinkedIn) |  Multiple Locations |  Present | C++, C#, Python, Java, JavaScript, TypeScript, HTML5, iOS, Android or Windows mobile technology skills  |
 |  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |

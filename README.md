@@ -46,7 +46,6 @@ To contribute:
 | [Los Alamos National Lab](https://jobszp1.lanl.gov/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&OAHP=IRC_EXT_SITE_VISITOR_APPL&OASF=IRC_VIS_VAC_DISPLAY&akRegionApplicationId=821&transactionid=1590195690&retainAM=N&addBreadCrumb=RP&p_svid=73935&p_spid=3367360&oapc=5&oas=fVtHbWr4rfa7MThh6_ybbw..)  | Los Alamos, NM  | due September 30 | Min. GPA 3.0 Coverletter Required  |
 |  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
 |  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
-|  [Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-us/mobile-0/brand-2/xf-88b1eb77da85/candidate/so/pm/1/pl/1/opp/8319/apply/en-us) | New York, NY | Present | Min. GPA 3.0, prefers C, C++, Java or C# programming skills
 |  [Houston Mechatronics](https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y) | Webster, TX | Present | US Citizenship is required; Prefers robotics experience, Linux command line, and Python programming language
 |  [Optiver](https://www.optiver.com/na/en/job-opportunities/us-4315469002) | Chicago | Present | Prefers C, C++, Java or C# programming skills; No sponsorship
 |  [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4367942002) | New York, NY | Present | Prefers C++ or Java programming skills

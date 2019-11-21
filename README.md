@@ -240,7 +240,12 @@ To contribute:
 |  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
 |  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
 |  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present
+|  [Latch](https://forms.gle/k6rzDBi5w83PXeJ56) | New York | Present |
 |  [RBC](https://jobs.rbc.com/ca/en/amplify) | Toronto, ON | Present | Graduating in 2020, 2021 |
+|  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/owego/software-engineering-intern/694/13093474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Owego, NY | Present | Must have at least a 3.0 GPA, Must be able to obtain an interim secret clearance prior to start, and must be able to obtain and maintain a security clearance
+|  [Twine Labs](https://boards.greenhouse.io/twinelabs/jobs/4471460002) | New York, NY | Present |
+|  [Pandora](https://recruiting.adp.com/srccar/public/RTI.home?c=1147611) | Peachtree, GA; Oakland, CA | Present |
+|  [Audible](https://www.amazon.jobs/en/jobs/941377/software-development-engineer-internship) | New York, NY; Newark, NJ; New Jersey, US | Present | Anticipated graduation date between December 2020 and May/June 2021 |
 |  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/owego/software-engineering-intern/694/13093474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Owego, NY | Present | Must have at least a 3.0 GPA, Must be able to obtain an interim secret clearance prior to start, and must be able to obtain and maintain a security clearance|
 |  [Williams-Sonoma, Inc](https://recruiting.adp.com/srccar/public/RTI.home?r=5000550879006&c=1126007&d=ExternalCareerSite&rb=INDEED#/) | San Francisco, CA | Present | Rising Seniors/Third Years Only. IT, Email Marketing, and ECommerse SWE positions available. 
 |  [Fanatics Inc.](https://jobs.lever.co/fanatics/d1fadd7f-fc46-47f8-96d8-62ff93156fa0) | San Mateo, CA | Present | 

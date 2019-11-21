@@ -238,7 +238,7 @@ To contribute:
 |  [Pendo](https://boards.greenhouse.io/pendo/jobs/4454910002/) | Raleigh, NC | Present |
 |  [Snowflake](https://boards.greenhouse.io/snowflakecomputing) | San Mateo, Seattle | Present |
 |  [MailChimp](https://boards.greenhouse.io/mailchimp) | Atlanta | Present
-|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NA | Present
+|  [Tapad](https://www.tapad.com/careers/openings/?gh_jid=1866144) | New York, NY | Present
 |  [ServiceNow](https://jobs.jobvite.com/servicenow/job/oPtSafw4/) | Santa Clara, California; San Diego, Californial; Kirkland, Washington; Chicago, Illinois; San Francisco, California | Present
 |  [Latch](https://forms.gle/k6rzDBi5w83PXeJ56) | New York | Present |
 |  [RBC](https://jobs.rbc.com/ca/en/amplify) | Toronto, ON | Present | Graduating in 2020, 2021 |

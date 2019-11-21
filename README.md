@@ -1,6 +1,6 @@
 
 # Summer 2020 Internships
-Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Utilize the Python Script to recieve an outputted Excel-Friendly version
+Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Utilize the Python Script to receive an outputted Excel-Friendly version
 
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
 Summer 2019 Tech Internships!
@@ -20,10 +20,10 @@ To contribute:
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
 |  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
+|  [Netapp](https://jobs.netapp.com/job/Tel-Aviv-Software-Engineer-Intern-67442/603994100/) |  Tel Aviv, IL, |  Present 
 |  [T-Mobile](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobid=601713&jobLocation=Bellevue,%2BWashington#jobDetails=601713_5149) |  Bellevue, Washington |  Present |
 |  [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16121-edg-intern-ms-and-phd-computer-science-majors?job_type_id[]=1755&) |  US-MA-Natick |  Present |
 |  [Red hat](https://us-redhat.icims.com/jobs/72990/software-engineering-internship---cloud-security-technologies/job?hub=7&mobile=false&width=1011&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-420) |  New York |  Present | Golang, Python programming skills  |
-|  [Citrix](https://jobs.citrix.com/job/CITRA0058R18394/Software-Engineer-Intern-Summer-2020) |  Ft Lauderdale, Florida |  Present | Min. GPA 3.3 | Prefer experience with front-end, JavaScript, Angular, React, and Web services  |
 |  [Esri](https://www.esri.com/en-us/about/careers/job-detail?jobID=11338&mode=job&iis=Job%2BBoard&iisn=LinkedIn) |  Multiple Locations |  Present | C++, C#, Python, Java, JavaScript, TypeScript, HTML5, iOS, Android or Windows mobile technology skills  |
 |  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
@@ -246,3 +246,6 @@ To contribute:
 |  [Twine Labs](https://boards.greenhouse.io/twinelabs/jobs/4471460002) | New York, NY | Present |
 |  [Pandora](https://recruiting.adp.com/srccar/public/RTI.home?c=1147611) | Peachtree, GA; Oakland, CA | Present |
 |  [Audible](https://www.amazon.jobs/en/jobs/941377/software-development-engineer-internship) | New York, NY; Newark, NJ; New Jersey, US | Present | Anticipated graduation date between December 2020 and May/June 2021 |
+|  [Lockheed Martin](https://www.lockheedmartinjobs.com/job/owego/software-engineering-intern/694/13093474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Owego, NY | Present | Must have at least a 3.0 GPA, Must be able to obtain an interim secret clearance prior to start, and must be able to obtain and maintain a security clearance|
+|  [Williams-Sonoma, Inc](https://recruiting.adp.com/srccar/public/RTI.home?r=5000550879006&c=1126007&d=ExternalCareerSite&rb=INDEED#/) | San Francisco, CA | Present | Rising Seniors/Third Years Only. IT, Email Marketing, and ECommerse SWE positions available. 
+|  [Fanatics Inc.](https://jobs.lever.co/fanatics/d1fadd7f-fc46-47f8-96d8-62ff93156fa0) | San Mateo, CA | Present | 

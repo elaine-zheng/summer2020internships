@@ -18,6 +18,7 @@ To contribute:
 
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|---|
+|  [Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7?lever-via=2F9sFPC6-M) | San Francisco, CA | Present |
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
 |  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
 |  [Netapp](https://jobs.netapp.com/job/Tel-Aviv-Software-Engineer-Intern-67442/603994100/) |  Tel Aviv, IL, |  Present 

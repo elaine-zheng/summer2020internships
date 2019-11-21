@@ -20,6 +20,7 @@ To contribute:
 |---|---|---|---|
 |  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
 |  [Ebay](https://jobs.ebayinc.com/job/san-jose/software-engineer-intern/403/13338627) |  San Jose, California |  Present | Java, Python programming skills  |
+|  [Netapp](https://jobs.netapp.com/job/Tel-Aviv-Software-Engineer-Intern-67442/603994100/) |  Tel Aviv, IL, |  Present 
 |  [T-Mobile](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25779&siteid=5149&jobid=601713&jobLocation=Bellevue,%2BWashington#jobDetails=601713_5149) |  Bellevue, Washington |  Present |
 |  [MathWorks](https://www.mathworks.com/company/jobs/opportunities/16121-edg-intern-ms-and-phd-computer-science-majors?job_type_id[]=1755&) |  US-MA-Natick |  Present |
 |  [Red hat](https://us-redhat.icims.com/jobs/72990/software-engineering-internship---cloud-security-technologies/job?hub=7&mobile=false&width=1011&height=500&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-420) |  New York |  Present | Golang, Python programming skills  |

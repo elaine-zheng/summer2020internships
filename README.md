@@ -251,3 +251,4 @@ To contribute:
 |  [Fanatics Inc.](https://jobs.lever.co/fanatics/d1fadd7f-fc46-47f8-96d8-62ff93156fa0) | San Mateo, CA | Present | 
 |  [Quizlet](https://jobs.lever.co/quizlet-2/7b90a4bf-7911-4651-afc2-aa005d7fc170) | Denver, CO | Present |
 |  [Ancestry](https://careers.ancestry.com/us/en/c/software-development-jobs) | Lehi, UT; San Francisco, CA | Present |
+|  [Linode](https://linode.breezy.hr/p/66c7e3af331801-software-engineer-intern) | Philadelphia, PA | Present |

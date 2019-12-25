@@ -48,7 +48,6 @@ To contribute:
 |  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
 |  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
 |  [Houston Mechatronics](https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y) | Webster, TX | Present | US Citizenship is required; Prefers robotics experience, Linux command line, and Python programming language
-|  [Optiver](https://www.optiver.com/na/en/job-opportunities/us-4315469002) | Chicago | Present | Prefers C, C++, Java or C# programming skills; No sponsorship
 |  [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4367942002) | New York, NY | Present | Prefers C++ or Java programming skills
 |  [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Several:  Dublin, London, Chicago, Hong Kong, London, New York, Austin  | Present | SWE, Quant, IT, DevOps
 |  [Red Ventures](https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1) | Austin, TX | Present | Juniors, Prefers experience with top web languages

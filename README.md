@@ -256,3 +256,4 @@ To contribute:
 |  [Improbable](https://jobs.lever.co/improbable/f2e0ab3f-70a4-44d6-a49c-54287f1232d8) | London, GB | Present | 
 |  [Coinbase](https://www.coinbase.com/careers/positions/1724656?gh_jid=1724656) | San Francisco, CA | Present |
 |  [SmartSheet](https://boards.greenhouse.io/smartsheet/) | Boston, MA; Bellevue, WA | Present |
+|  [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA | Present |

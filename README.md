@@ -257,3 +257,4 @@ To contribute:
 |  [Coinbase](https://www.coinbase.com/careers/positions/1724656?gh_jid=1724656) | San Francisco, CA | Present |
 |  [SmartSheet](https://boards.greenhouse.io/smartsheet/) | Boston, MA; Bellevue, WA | Present |
 |  [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA | Present |
+|  [Lumentum](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Auto/Software-Engineering-Intern_20191613) | San Jose, CA | Present |

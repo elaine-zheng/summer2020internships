@@ -258,3 +258,4 @@ To contribute:
 |  [SmartSheet](https://boards.greenhouse.io/smartsheet/) | Boston, MA; Bellevue, WA | Present |
 |  [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA | Present |
 |  [Lumentum](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Auto/Software-Engineering-Intern_20191613) | San Jose, CA | Present |
+|  [Mcafee](https://careers.mcafee.com/job/-/-/731/14551589?source=LinkedIn) | Santa Clara, CA | Present |

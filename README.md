@@ -261,4 +261,5 @@ To contribute:
 |  [Mcafee](https://careers.mcafee.com/job/-/-/731/14551589?source=LinkedIn) | Santa Clara, CA | Present |
 |  [Shopify](https://www.shopify.com/careers/interns) | Ottawa, Montreal, Toronto, Waterloo | Present |
 |  [Stateless](https://boards.greenhouse.io/stateless/jobs/4596398002) | Boulder, CO | Present | Applications will be accepted until February 10th. You will be contacted no later than February 21st regarding the next phase. Hiring decisions will be made based on your code challenge and possible interview by March 20th. |
+|  [Zoom](https://jobs.lever.co/zoom/e593f518-3491-4677-847d-3cc9d9b36605) | San Jose, CA | Present |
 

@@ -47,7 +47,6 @@ To contribute:
 |  [Duolingo](https://boards.greenhouse.io/duolingo/jobs/4351727002) | Pittsburgh, PA | Present | Juniors+
 |  [Robinhood](https://boards.greenhouse.io/robinhood/jobs/1739582) | Menlo Park, CA | Present |
 |  [Houston Mechatronics](https://hire.withgoogle.com/public/jobs/houstonmechatronicscom/view/P_AAAAAAFAACPOqH3qYYp_8y) | Webster, TX | Present | US Citizenship is required; Prefers robotics experience, Linux command line, and Python programming language
-|  [Optiver](https://www.optiver.com/na/en/job-opportunities/us-4315469002) | Chicago | Present | Prefers C, C++, Java or C# programming skills; No sponsorship
 |  [Virtu Financial](https://boards.greenhouse.io/virtu/jobs/4367942002) | New York, NY | Present | Prefers C++ or Java programming skills
 |  [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Several:  Dublin, London, Chicago, Hong Kong, London, New York, Austin  | Present | SWE, Quant, IT, DevOps
 |  [Red Ventures](https://careers.redventures.com/application/position/1755893?gh_jid=1755893&gh_src=cec562fc1&gh_jid=1755893&gh_src=cec562fc1) | Austin, TX | Present | Juniors, Prefers experience with top web languages
@@ -63,7 +62,6 @@ To contribute:
 |  [Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002) | San Francisco | Present | BA/BS Graduation Year: 2021 (No Masters/PhD)
 |  [Amazon](https://www.amazon.jobs/en/jobs/908695/software-development-engineer-internship-summer-2020-us) |  Austin, Bay Area, Bellevue, Boston, Denver, Detroit, Herndon, Irvine, New York, Madison, Minneapolis, Phoenix, Portland, San Diego, also Vancouver, Toronto and Winnipeg (Canada has seperate application) | Present
 |  [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/5982) | New York | Present
-|  [Flexport](https://boards.greenhouse.io/flexport/jobs/1802354) | San Francisco, Chicago | Present
 |  [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1975484) | San Diego, Boulder, Austin, San Jose, Santa Clara | Present | In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering. Must be available for 3 months during Summer 2020 (May-September)
 |  [Atlassian](https://jobs.lever.co/atlassian/9484630b-4039-415e-af9a-c1e2c34e5a8b) | Mountain View, CA | Present | Must be currently enrolled in a full-time degree program and returning to the program after the completion of the internship, graduating by June 2021 |
 |  [Capital One](https://campus.capitalone.com/job/mclean/technology-internship-program-summer-2020/1786/12562814) | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | Present | Bachelor’s degree or higher obtained between December 2020 and August 2021 |

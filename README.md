@@ -249,3 +249,22 @@ To contribute:
 |  [LiveRamp](https://boards.greenhouse.io/liveramp/jobs/1818341?gh_src=179a9d6f1) | San Francisco | Present | Note: At this time, we are only considering those that will be one year from graduation at the start of their internship.
 |  [Williams-Sonoma, Inc](https://recruiting.adp.com/srccar/public/RTI.home?r=5000550879006&c=1126007&d=ExternalCareerSite&rb=INDEED#/) | San Francisco, CA | Present | Rising Seniors/Third Years Only. IT, Email Marketing, and ECommerse SWE positions available. 
 |  [Fanatics Inc.](https://jobs.lever.co/fanatics/d1fadd7f-fc46-47f8-96d8-62ff93156fa0) | San Mateo, CA | Present | 
+|  [Quizlet](https://jobs.lever.co/quizlet-2/7b90a4bf-7911-4651-afc2-aa005d7fc170) | Denver, CO | Present |
+|  [Ancestry](https://careers.ancestry.com/us/en/c/software-development-jobs) | Lehi, UT; San Francisco, CA | Present |
+|  [Linode](https://linode.breezy.hr/p/66c7e3af331801-software-engineer-intern) | Philadelphia, PA | Present |
+|  [Grand Rounds](https://jobs.lever.co/grandrounds/) | San Francisco, CA | Present |
+|  [Improbable](https://jobs.lever.co/improbable/f2e0ab3f-70a4-44d6-a49c-54287f1232d8) | London, GB | Present | 
+|  [Coinbase](https://www.coinbase.com/careers/positions/1724656?gh_jid=1724656) | San Francisco, CA | Present |
+|  [SmartSheet](https://boards.greenhouse.io/smartsheet/) | Boston, MA; Bellevue, WA | Present |
+|  [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA | Present |
+|  [Lumentum](https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Auto/Software-Engineering-Intern_20191613) | San Jose, CA | Present |
+|  [Mcafee](https://careers.mcafee.com/job/-/-/731/14551589?source=LinkedIn) | Santa Clara, CA | Present |
+|  [Shopify](https://www.shopify.com/careers/interns) | Ottawa, Montreal, Toronto, Waterloo | Present |
+|  [Stateless](https://boards.greenhouse.io/stateless/jobs/4596398002) | Boulder, CO | Present | Applications will be accepted until February 10th. You will be contacted no later than February 21st regarding the next phase. Hiring decisions will be made based on your code challenge and possible interview by March 20th. |
+|  [Zoom](https://jobs.lever.co/zoom/e593f518-3491-4677-847d-3cc9d9b36605) | San Jose, CA | Present |
+|  [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_1901614) | Santa Clara, CA | Present |
+|  [Shutterfly](http://jobs.jobvite.com/shutterflyinc/job/osWUbfwd) | Redwood City, CA | Present |
+|  [Electronic Arts](https://www.ea.com/careers/students) | Various | Present |
+|  [Niantic](https://boards.greenhouse.io/niantic/jobs/4549910002) | Sunnyvale, CA; Los Angeles, CA; San Francisco, CA; Bellevue, WA | Present | Graduating in 2021 or later with a Bachelor’s or Master’s degree in Computer Science or a related field. |
+
+

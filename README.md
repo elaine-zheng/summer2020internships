@@ -263,6 +263,6 @@ To contribute:
 |  [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_1901614) | Santa Clara, CA | Present |
 |  [Shutterfly](http://jobs.jobvite.com/shutterflyinc/job/osWUbfwd) | Redwood City, CA | Present |
 |  [Electronic Arts](https://www.ea.com/careers/students) | Various | Present |
-|  [Niantic](https://boards.greenhouse.io/niantic/jobs/4549910002) | Sunnyvale, CA; Los Angeles, CA; San Francisco, CA; Bellevue, WA | Present | Graduating in 2021 or later with a Bachelor’s or Master’s degree in Computer Science or a related field. |
+|
 
 

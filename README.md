@@ -1,5 +1,7 @@
 
 # Summer 2020 Internships
+**Unfortunately, this is no longer being updated as of 3/1/2020. This list is by no means comprehensive and there are definitely still opportunities out there! Best of luck everyone**
+
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration. Utilize the Python Script to receive an outputted Excel-Friendly version
 
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
